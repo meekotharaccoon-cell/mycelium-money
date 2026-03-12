@@ -1,23 +1,61 @@
-# 💰 Mycelium Money Agent
+# Mycelium Money
 
-Part of the [Meeko Mycelium](https://github.com/meekotharaccoon-cell/meeko-nerve-center) organism.
+> SolarPunk's revenue layer. Every dollar earned routes automatically. 15% always to Gaza.
 
-Finds every legal, ethical revenue stream. Researches it. Pursues it. Reports daily.
+**Part of the [SolarPunk organism](https://meekotharaccoon-cell.github.io/meeko-nerve-center/solarpunk.html)**
 
-## What it tracks
-- Class action settlements open for claims (free money)
-- FTC refund programs
-- State unclaimed property
-- TCPA robocall claims ($500-$1,500 each)
-- Kalshi prediction markets (US-legal unlike Polymarket)
-- Affiliate programs for tools already in use
-- SEC whistleblower opportunities
+---
 
-## The compound loop
-Gallery sale → PCRF donation → better story → bigger grants → better system → more sales
+## What this is
 
-## All repos
-- [meeko-nerve-center](https://github.com/meekotharaccoon-cell/meeko-nerve-center)
-- [mycelium-grants](https://github.com/meekotharaccoon-cell/mycelium-grants)
-- [mycelium-money](https://github.com/meekotharaccoon-cell/mycelium-money) — this repo
-- [mycelium-knowledge](https://github.com/meekotharaccoon-cell/mycelium-knowledge)
+Mycelium Money is the economic infrastructure of SolarPunk. It handles:
+
+- Tracking all revenue across Gumroad, Ko-fi, GitHub Sponsors, and email agent tasks
+- Automatic routing: 15% to PCRF before any other payout
+- Contributor splits for anyone whose engine generates revenue
+- Loop fund management: reinvesting into the next cycle
+
+---
+
+## Revenue channels
+
+| Channel | Status |
+|---------|--------|
+| Gumroad (10 products queued) | Pending first sale |
+| Ko-fi shop (6 listings ready) | Pending setup |
+| GitHub Sponsors | Pending enable |
+| Email Agent Exchange | Live, $0 so far |
+| Grants | Hunting |
+
+---
+
+## The routing
+
+Every dollar that enters the system is processed by `DISPATCH_HANDLER`:
+
+```
+Incoming payment
+  → 15% to PCRF (EIN: 93-1057665)
+  → contributor share (per registry)
+  → remainder to loop fund
+```
+
+This is not configurable. It's in the code.
+
+---
+
+## Engines involved
+
+`REVENUE_FLYWHEEL` · `DISPATCH_HANDLER` · `HUMAN_PAYOUT` · `PAYPAL_PAYOUT` · `KOFI_ENGINE` · `GUMROAD_ENGINE` · `GITHUB_SPONSORS_ENGINE` · `CONTRIBUTOR_REGISTRY` · `INCOME_ARCHITECT` · `REVENUE_OPTIMIZER`
+
+---
+
+## Part of the organism
+
+- 🧠 **Nerve center**: [meeko-nerve-center](https://github.com/meekotharaccoon-cell/meeko-nerve-center)
+- 🌍 **What SolarPunk is**: [solarpunk.html](https://meekotharaccoon-cell.github.io/meeko-nerve-center/solarpunk.html)
+- 💰 **Revenue tracker**: [quick_revenue.html](https://meekotharaccoon-cell.github.io/meeko-nerve-center/quick_revenue.html)
+
+---
+
+*Founded by Meeko. Runs itself. For Palestine.*
