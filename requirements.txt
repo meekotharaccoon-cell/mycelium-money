@@ -1,0 +1,8 @@
+# mycelium-money -- autonomous legal money agent
+# All core functionality uses stdlib only (urllib, json)
+# These are optional dependencies for enhanced features:
+
+# None required! money_agent.py and arbitrage_scanner.py
+# use only Python stdlib (urllib.request, json, pathlib).
+# This keeps the agent lightweight and deployable anywhere
+# including GitHub Actions with zero pip install.
