@@ -1,0 +1,228 @@
+{
+  "generated_at": "2026-04-08T07:17:55.201734+00:00",
+  "cycle": 1,
+  "status": "ok",
+  "sections": {
+    "kalshi": {
+      "opportunities_found": 0,
+      "top_opportunities": [],
+      "active_events": [
+        {
+          "event_ticker": "KXELONMARS-99",
+          "title": "Will Elon Musk visit Mars in his lifetime?",
+          "category": "World",
+          "market_count": 1,
+          "total_volume": 0,
+          "close_time": ""
+        },
+        {
+          "event_ticker": "KXNEWPOPE-70",
+          "title": "Who will the next Pope be?",
+          "category": "Elections",
+          "market_count": 7,
+          "total_volume": 0,
+          "close_time": ""
+        },
+        {
+          "event_ticker": "KXWARMING-50",
+          "title": "Will the world pass 2 degrees Celsius over pre-industrial levels before 2050?",
+          "category": "Climate and Weather",
+          "market_count": 1,
+          "total_volume": 0,
+          "close_time": ""
+        },
+        {
+          "event_ticker": "KXMARSVRAIL-50",
+          "title": "Will a human land on Mars before California starts high-speed rail?",
+          "category": "Science and Technology",
+          "market_count": 1,
+          "total_volume": 0,
+          "close_time": ""
+        },
+        {
+          "event_ticker": "KXERUPTSUPER-0",
+          "title": "Will a supervolcano erupt before 2050?",
+          "category": "Climate and Weather",
+          "market_count": 1,
+          "total_volume": 0,
+          "close_time": ""
+        }
+      ],
+      "series_scanned": 11
+    },
+    "crypto": {
+      "prices": {
+        "bitcoin": {
+          "symbol": "BTC",
+          "usd": 71723,
+          "usd_24h_change": 4.605079588897721,
+          "usd_market_cap": 1434734684495.83
+        },
+        "ethereum": {
+          "symbol": "ETH",
+          "usd": 2249.79,
+          "usd_24h_change": 7.0732388370465875,
+          "usd_market_cap": 271262993808.20514
+        },
+        "fetch-ai": {
+          "symbol": "FET",
+          "usd": 0.25362,
+          "usd_24h_change": 9.234541903540183,
+          "usd_market_cap": 571037437.7578413
+        },
+        "filecoin": {
+          "symbol": "FIL",
+          "usd": 0.910715,
+          "usd_24h_change": 6.630034401547588,
+          "usd_market_cap": 700829330.9458978
+        },
+        "ocean-protocol": {
+          "symbol": "OCEAN",
+          "usd": 0.135805,
+          "usd_24h_change": 2.30696866969636,
+          "usd_market_cap": 27173611.31098579
+        },
+        "render-token": {
+          "symbol": "RNDR",
+          "usd": 2.11,
+          "usd_24h_change": 12.305587600210997,
+          "usd_market_cap": 1086414026.7984478
+        },
+        "singularitynet": {
+          "symbol": "AGIX",
+          "usd": 0.109098,
+          "usd_24h_change": 8.87453385187212,
+          "usd_market_cap": 26810636.780531436
+        },
+        "solana": {
+          "symbol": "SOL",
+          "usd": 84.41,
+          "usd_24h_change": 5.967746744355956,
+          "usd_market_cap": 48387008087.883224
+        }
+      },
+      "stablecoins": {
+        "USDT": {
+          "usd": 0.999897,
+          "usd_24h_change": -0.004326924152029535
+        },
+        "USDC": {
+          "usd": 0.999971,
+          "usd_24h_change": 0.01313349793007479
+        },
+        "DAI": {
+          "usd": 1.0,
+          "usd_24h_change": -0.018803839548781197
+        }
+      },
+      "trending": [
+        {
+          "id": "pudgy-penguins",
+          "symbol": "PENGU",
+          "name": "Pudgy Penguins",
+          "market_cap_rank": 104
+        },
+        {
+          "id": "bitcoin",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "market_cap_rank": 1
+        },
+        {
+          "id": "zcash",
+          "symbol": "ZEC",
+          "name": "Zcash",
+          "market_cap_rank": 22
+        },
+        {
+          "id": "hyperliquid",
+          "symbol": "HYPE",
+          "name": "Hyperliquid",
+          "market_cap_rank": 15
+        },
+        {
+          "id": "siren-2",
+          "symbol": "SIREN",
+          "name": "Siren",
+          "market_cap_rank": 114
+        }
+      ],
+      "best_ai_token": {
+        "id": "render-token",
+        "symbol": "RNDR",
+        "usd": 2.11,
+        "usd_24h_change": 12.305587600210997,
+        "usd_market_cap": 1086414026.7984478
+      },
+      "btc_price": 71723,
+      "eth_price": 2249.79
+    },
+    "fear_greed": {
+      "current": {
+        "value": 17,
+        "label": "Extreme Fear",
+        "timestamp": "1775606400"
+      },
+      "trend": "stable",
+      "history_7d": [
+        {
+          "value": 17,
+          "label": "Extreme Fear",
+          "date": "2026-04-08T00:00:00+00:00"
+        },
+        {
+          "value": 11,
+          "label": "Extreme Fear",
+          "date": "2026-04-07T00:00:00+00:00"
+        },
+        {
+          "value": 13,
+          "label": "Extreme Fear",
+          "date": "2026-04-06T00:00:00+00:00"
+        },
+        {
+          "value": 12,
+          "label": "Extreme Fear",
+          "date": "2026-04-05T00:00:00+00:00"
+        },
+        {
+          "value": 11,
+          "label": "Extreme Fear",
+          "date": "2026-04-04T00:00:00+00:00"
+        },
+        {
+          "value": 9,
+          "label": "Extreme Fear",
+          "date": "2026-04-03T00:00:00+00:00"
+        },
+        {
+          "value": 12,
+          "label": "Extreme Fear",
+          "date": "2026-04-02T00:00:00+00:00"
+        }
+      ]
+    },
+    "compound": {
+      "total_invested": 0,
+      "total_returned": 0,
+      "net_profit": 0,
+      "win_rate": 0,
+      "avg_return_pct": 0,
+      "daily_compound_rate": 0,
+      "weekly_projection": 0,
+      "monthly_projection": 0,
+      "quarterly_projection": 0,
+      "positions_analyzed": 0
+    },
+    "signal": {
+      "action": "buy_dip",
+      "reasoning": [
+        "Extreme fear (17) -- contrarian buy signal",
+        "AI token RNDR up 12.3% -- momentum"
+      ],
+      "fear_greed": 17,
+      "kalshi_opp_count": 0
+    }
+  },
+  "elapsed_seconds": 4.7
+}
