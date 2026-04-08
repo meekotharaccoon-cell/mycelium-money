@@ -1,0 +1,90 @@
+name: Daily Money Scan
+
+on:
+  schedule:
+    # Run at 14:00 UTC (10am ET) every day -- markets are active
+    - cron: "0 14 * * *"
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Create data directory
+        run: mkdir -p data
+
+      - name: Run money agent
+        run: |
+          cd agent
+          python money_agent.py > ../data/revenue_report.json 2> ../data/money_agent.log
+          echo "Money agent completed"
+
+      - name: Run arbitrage scanner
+        run: |
+          cd agent
+          python arbitrage_scanner.py > ../data/arbitrage_report.json 2> ../data/arbitrage_scanner.log
+          echo "Arbitrage scanner completed"
+
+      - name: Generate daily summary
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          python3 -c "
+          import json, sys
+          from datetime import datetime
+
+          revenue = {}
+          arb = {}
+          try:
+              with open('data/revenue_report.json') as f:
+                  revenue = json.load(f)
+          except Exception as e:
+              print(f'Revenue report read error: {e}', file=sys.stderr)
+
+          try:
+              with open('data/arbitrage_report.json') as f:
+                  arb = json.load(f)
+          except Exception as e:
+              print(f'Arb report read error: {e}', file=sys.stderr)
+
+          summary = {
+              'date': '$DATE',
+              'generated_at': datetime.utcnow().isoformat() + 'Z',
+              'revenue': {
+                  'kalshi_opportunities': revenue.get('sections', {}).get('kalshi', {}).get('opportunities_found', 0),
+                  'btc_price': revenue.get('sections', {}).get('crypto', {}).get('btc_price', 0),
+                  'eth_price': revenue.get('sections', {}).get('crypto', {}).get('eth_price', 0),
+                  'fear_greed': revenue.get('sections', {}).get('fear_greed', {}).get('current', {}).get('value', 0),
+                  'signal': revenue.get('sections', {}).get('signal', {}).get('action', 'unknown'),
+              },
+              'arbitrage': {
+                  'total_opportunities': arb.get('summary', {}).get('total_opportunities', 0),
+                  'stablecoin_opps': arb.get('summary', {}).get('stablecoin_peg_opps', 0),
+                  'crypto_spread_opps': arb.get('summary', {}).get('crypto_spread_opps', 0),
+                  'kalshi_mispricing_opps': arb.get('summary', {}).get('kalshi_mispricing_opps', 0),
+              },
+          }
+          print(json.dumps(summary, indent=2))
+          " > "data/daily_${DATE}.json"
+          echo "Daily summary written to data/daily_${DATE}.json"
+
+      - name: Commit results
+        run: |
+          git config user.name "mycelium-money-bot"
+          git config user.email "bot@mycelium-money.local"
+          git add data/
+          DATE=$(date -u +%Y-%m-%d)
+          git diff --cached --quiet || git commit -m "scan: daily results ${DATE}"
+          git push || echo "Push failed (possibly no changes)"
