@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T15:24:34.594501+00:00",
-  "cycle": 3,
+  "generated_at": "2026-04-10T14:51:34.009787+00:00",
+  "cycle": 4,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,117 +54,122 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 71500,
-          "usd_24h_change": 0.44681739618563654,
-          "usd_market_cap": 1429469144027.2253
+          "usd": 72825,
+          "usd_24h_change": 2.3676253578275075,
+          "usd_market_cap": 1458629337382.2632
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 2190.87,
-          "usd_24h_change": -0.7543354567368689,
-          "usd_market_cap": 264226445256.29257
+          "usd": 2240.95,
+          "usd_24h_change": 2.8482753808276824,
+          "usd_market_cap": 270488067498.19153
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.243702,
-          "usd_24h_change": -2.1326918827691856,
-          "usd_market_cap": 550203170.940442
+          "usd": 0.239122,
+          "usd_24h_change": -1.8592393992705212,
+          "usd_market_cap": 540398545.3657833
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.88648,
-          "usd_24h_change": -1.1871080365681106,
-          "usd_market_cap": 682125689.3854063
+          "usd": 0.90823,
+          "usd_24h_change": 3.16475711495295,
+          "usd_market_cap": 698849295.1898609
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.134446,
-          "usd_24h_change": -1.5797939638504004,
-          "usd_market_cap": 26899496.68861107
+          "usd": 0.136014,
+          "usd_24h_change": 1.1309426767456983,
+          "usd_market_cap": 27211276.995139226
         },
         "render-token": {
           "symbol": "RNDR",
           "usd": 2.05,
-          "usd_24h_change": 0.47253086579734743,
-          "usd_market_cap": 1064305338.1066585
+          "usd_24h_change": -0.10487179410506058,
+          "usd_market_cap": 1061764127.5074971
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.105597,
-          "usd_24h_change": -2.0028227333957513,
-          "usd_market_cap": 25936986.808970533
+          "usd": 0.1036,
+          "usd_24h_change": -0.7941886733332697,
+          "usd_market_cap": 25452063.08330806
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 82.5,
-          "usd_24h_change": -0.8462583717299212,
-          "usd_market_cap": 47360623432.6858
+          "usd": 84.95,
+          "usd_24h_change": 3.3740365774131655,
+          "usd_market_cap": 48762432257.28551
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.999975,
-          "usd_24h_change": -0.0004330384183494023
+          "usd": 1.0,
+          "usd_24h_change": 0.016579125435520033
         },
         "USDC": {
-          "usd": 0.999885,
-          "usd_24h_change": -0.009604760516115493
+          "usd": 0.999894,
+          "usd_24h_change": -0.0032851469336900533
         },
         "DAI": {
-          "usd": 0.999155,
-          "usd_24h_change": -0.05012782918231824
+          "usd": 0.998385,
+          "usd_24h_change": -0.1478938190300444
         }
       },
       "trending": [
         {
-          "id": "aria-ai",
-          "symbol": "ARIA",
-          "name": "Aria.AI",
-          "market_cap_rank": 331
+          "id": "bittensor",
+          "symbol": "TAO",
+          "name": "Bittensor",
+          "market_cap_rank": 37
         },
         {
-          "id": "siren-2",
-          "symbol": "SIREN",
-          "name": "Siren",
-          "market_cap_rank": 98
+          "id": "ravedao",
+          "symbol": "RAVE",
+          "name": "RaveDAO",
+          "market_cap_rank": 127
         },
         {
-          "id": "enjincoin",
-          "symbol": "ENJ",
-          "name": "Enjin Coin",
-          "market_cap_rank": 381
+          "id": "monad",
+          "symbol": "MON",
+          "name": "Monad",
+          "market_cap_rank": 116
         },
         {
-          "id": "fartcoin",
-          "symbol": "FARTCOIN",
-          "name": "Fartcoin",
-          "market_cap_rank": 176
+          "id": "pudgy-penguins",
+          "symbol": "PENGU",
+          "name": "Pudgy Penguins",
+          "market_cap_rank": 108
         },
         {
-          "id": "solana",
-          "symbol": "SOL",
-          "name": "Solana",
-          "market_cap_rank": 7
+          "id": "illuvium",
+          "symbol": "ILV",
+          "name": "Illuvium",
+          "market_cap_rank": 469
         }
       ],
       "best_ai_token": {
-        "id": "render-token",
-        "symbol": "RNDR",
-        "usd": 2.05,
-        "usd_24h_change": 0.47253086579734743,
-        "usd_market_cap": 1064305338.1066585
+        "id": "ocean-protocol",
+        "symbol": "OCEAN",
+        "usd": 0.136014,
+        "usd_24h_change": 1.1309426767456983,
+        "usd_market_cap": 27211276.995139226
       },
-      "btc_price": 71500,
-      "eth_price": 2190.87
+      "btc_price": 72825,
+      "eth_price": 2240.95
     },
     "fear_greed": {
       "current": {
-        "value": 14,
+        "value": 16,
         "label": "Extreme Fear",
-        "timestamp": "1775692800"
+        "timestamp": "1775779200"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 16,
+          "label": "Extreme Fear",
+          "date": "2026-04-10T00:00:00+00:00"
+        },
         {
           "value": 14,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 11,
           "label": "Extreme Fear",
           "date": "2026-04-04T00:00:00+00:00"
-        },
-        {
-          "value": 9,
-          "label": "Extreme Fear",
-          "date": "2026-04-03T00:00:00+00:00"
         }
       ]
     },
@@ -217,11 +217,11 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (14) -- contrarian buy signal"
+        "Extreme fear (16) -- contrarian buy signal"
       ],
-      "fear_greed": 14,
+      "fear_greed": 16,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 5.6
+  "elapsed_seconds": 5.7
 }
