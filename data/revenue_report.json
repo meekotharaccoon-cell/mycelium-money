@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T14:51:34.009787+00:00",
-  "cycle": 4,
+  "generated_at": "2026-04-11T14:38:29.853487+00:00",
+  "cycle": 5,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,68 +54,86 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 72825,
-          "usd_24h_change": 2.3676253578275075,
-          "usd_market_cap": 1458629337382.2632
+          "usd": 72695,
+          "usd_24h_change": -0.5403332555517669,
+          "usd_market_cap": 1455516209407.4968
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 2240.95,
-          "usd_24h_change": 2.8482753808276824,
-          "usd_market_cap": 270488067498.19153
+          "usd": 2241.51,
+          "usd_24h_change": -0.3068988925771312,
+          "usd_market_cap": 270534880881.99588
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.239122,
-          "usd_24h_change": -1.8592393992705212,
-          "usd_market_cap": 540398545.3657833
+          "usd": 0.23688,
+          "usd_24h_change": -1.2192073407943134,
+          "usd_market_cap": 535877574.1591897
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.90823,
-          "usd_24h_change": 3.16475711495295,
-          "usd_market_cap": 698849295.1898609
+          "usd": 0.892871,
+          "usd_24h_change": -1.6578736978762287,
+          "usd_market_cap": 689197150.5555934
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.136014,
-          "usd_24h_change": 1.1309426767456983,
-          "usd_market_cap": 27211276.995139226
+          "usd": 0.138726,
+          "usd_24h_change": 1.7473543980974047,
+          "usd_market_cap": 27772998.533806212
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 2.05,
-          "usd_24h_change": -0.10487179410506058,
-          "usd_market_cap": 1061764127.5074971
+          "usd": 2.01,
+          "usd_24h_change": -1.8730443962607857,
+          "usd_market_cap": 1043731394.7196926
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.1036,
-          "usd_24h_change": -0.7941886733332697,
-          "usd_market_cap": 25452063.08330806
+          "usd": 0.102766,
+          "usd_24h_change": -1.1721324002827096,
+          "usd_market_cap": 25189616.80743354
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 84.95,
-          "usd_24h_change": 3.3740365774131655,
-          "usd_market_cap": 48762432257.28551
+          "usd": 84.3,
+          "usd_24h_change": -0.9408997164832847,
+          "usd_market_cap": 48417780502.10271
         }
       },
       "stablecoins": {
         "USDT": {
           "usd": 1.0,
-          "usd_24h_change": 0.016579125435520033
+          "usd_24h_change": -0.0010201090432587186
         },
         "USDC": {
-          "usd": 0.999894,
-          "usd_24h_change": -0.0032851469336900533
+          "usd": 1.0,
+          "usd_24h_change": -0.006844603044592296
         },
         "DAI": {
-          "usd": 0.998385,
-          "usd_24h_change": -0.1478938190300444
+          "usd": 1.001,
+          "usd_24h_change": 0.13423993894119668
         }
       },
       "trending": [
+        {
+          "id": "ravedao",
+          "symbol": "RAVE",
+          "name": "RaveDAO",
+          "market_cap_rank": 101
+        },
+        {
+          "id": "pudgy-penguins",
+          "symbol": "PENGU",
+          "name": "Pudgy Penguins",
+          "market_cap_rank": 109
+        },
+        {
+          "id": "bitcoin",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "market_cap_rank": 1
+        },
         {
           "id": "bittensor",
           "symbol": "TAO",
@@ -123,48 +141,35 @@
           "market_cap_rank": 37
         },
         {
-          "id": "ravedao",
-          "symbol": "RAVE",
-          "name": "RaveDAO",
-          "market_cap_rank": 127
-        },
-        {
-          "id": "monad",
-          "symbol": "MON",
-          "name": "Monad",
-          "market_cap_rank": 116
-        },
-        {
-          "id": "pudgy-penguins",
-          "symbol": "PENGU",
-          "name": "Pudgy Penguins",
-          "market_cap_rank": 108
-        },
-        {
-          "id": "illuvium",
-          "symbol": "ILV",
-          "name": "Illuvium",
-          "market_cap_rank": 469
+          "id": "zcash",
+          "symbol": "ZEC",
+          "name": "Zcash",
+          "market_cap_rank": 19
         }
       ],
       "best_ai_token": {
         "id": "ocean-protocol",
         "symbol": "OCEAN",
-        "usd": 0.136014,
-        "usd_24h_change": 1.1309426767456983,
-        "usd_market_cap": 27211276.995139226
+        "usd": 0.138726,
+        "usd_24h_change": 1.7473543980974047,
+        "usd_market_cap": 27772998.533806212
       },
-      "btc_price": 72825,
-      "eth_price": 2240.95
+      "btc_price": 72695,
+      "eth_price": 2241.51
     },
     "fear_greed": {
       "current": {
-        "value": 16,
+        "value": 15,
         "label": "Extreme Fear",
-        "timestamp": "1775779200"
+        "timestamp": "1775865600"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 15,
+          "label": "Extreme Fear",
+          "date": "2026-04-11T00:00:00+00:00"
+        },
         {
           "value": 16,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 12,
           "label": "Extreme Fear",
           "date": "2026-04-05T00:00:00+00:00"
-        },
-        {
-          "value": 11,
-          "label": "Extreme Fear",
-          "date": "2026-04-04T00:00:00+00:00"
         }
       ]
     },
@@ -217,11 +217,11 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (16) -- contrarian buy signal"
+        "Extreme fear (15) -- contrarian buy signal"
       ],
-      "fear_greed": 16,
+      "fear_greed": 15,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 5.7
+  "elapsed_seconds": 6.1
 }
