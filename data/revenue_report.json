@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T14:58:45.020681+00:00",
-  "cycle": 11,
+  "generated_at": "2026-04-18T14:42:09.384298+00:00",
+  "cycle": 12,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,117 +54,122 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 77953,
-          "usd_24h_change": 5.429531906288881,
-          "usd_market_cap": 1560386545858.3533
+          "usd": 76254,
+          "usd_24h_change": -2.1338671758942125,
+          "usd_market_cap": 1526026286875.0366
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 2449.02,
-          "usd_24h_change": 6.0723881822481385,
-          "usd_market_cap": 295514465747.1193
+          "usd": 2360.09,
+          "usd_24h_change": -3.574616473161143,
+          "usd_market_cap": 284797938633.97107
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.238692,
-          "usd_24h_change": 3.8404164732356354,
-          "usd_market_cap": 539155173.9495395
+          "usd": 0.227445,
+          "usd_24h_change": -4.654786096366812,
+          "usd_market_cap": 513458713.38011956
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 1.006,
-          "usd_24h_change": 2.7923389205529303,
-          "usd_market_cap": 777361076.1245413
+          "usd": 0.959018,
+          "usd_24h_change": -4.577255200599034,
+          "usd_market_cap": 740638098.5081313
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.148117,
-          "usd_24h_change": 2.755380688885784,
-          "usd_market_cap": 29635377.34172401
+          "usd": 0.143583,
+          "usd_24h_change": -3.0230932059545657,
+          "usd_market_cap": 28729369.317197576
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.95,
-          "usd_24h_change": 7.045687205394584,
-          "usd_market_cap": 1016229193.1654232
+          "usd": 1.83,
+          "usd_24h_change": -6.482834326940266,
+          "usd_market_cap": 946920430.007931
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.103414,
-          "usd_24h_change": 4.165470831369579,
-          "usd_market_cap": 25355830.376500465
+          "usd": 0.097712,
+          "usd_24h_change": -6.191920824229675,
+          "usd_market_cap": 23978619.34071903
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 90.15,
-          "usd_24h_change": 5.668995317611062,
-          "usd_market_cap": 51829353539.89765
+          "usd": 86.81,
+          "usd_24h_change": -4.030572740754293,
+          "usd_market_cap": 49949579684.29996
         }
       },
       "stablecoins": {
         "USDT": {
           "usd": 1.0,
-          "usd_24h_change": 0.016949348650941946
+          "usd_24h_change": -0.01085969779662747
         },
         "USDC": {
-          "usd": 0.999942,
-          "usd_24h_change": -0.007940364749266873
+          "usd": 0.999844,
+          "usd_24h_change": -0.005405157957698838
         },
         "DAI": {
-          "usd": 0.999354,
-          "usd_24h_change": 0.02666447496490399
+          "usd": 0.99967,
+          "usd_24h_change": -0.009400703536935987
         }
       },
       "trending": [
         {
-          "id": "asteroid-shiba",
-          "symbol": "ASTEROID",
-          "name": "Asteroid Shiba",
-          "market_cap_rank": 767
+          "id": "ravedao",
+          "symbol": "RAVE",
+          "name": "RaveDAO",
+          "market_cap_rank": 37
+        },
+        {
+          "id": "siren-2",
+          "symbol": "SIREN",
+          "name": "Siren",
+          "market_cap_rank": 98
+        },
+        {
+          "id": "bitcoin",
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "market_cap_rank": 1
         },
         {
           "id": "pudgy-penguins",
           "symbol": "PENGU",
           "name": "Pudgy Penguins",
-          "market_cap_rank": 105
+          "market_cap_rank": 109
         },
         {
-          "id": "openvpp-2",
-          "symbol": "OVPP",
-          "name": "OpenVPP",
-          "market_cap_rank": 870
-        },
-        {
-          "id": "moonriver",
-          "symbol": "MOVR",
-          "name": "Moonriver",
-          "market_cap_rank": 517
-        },
-        {
-          "id": "ravedao",
-          "symbol": "RAVE",
-          "name": "RaveDAO",
-          "market_cap_rank": 29
+          "id": "hyperliquid",
+          "symbol": "HYPE",
+          "name": "Hyperliquid",
+          "market_cap_rank": 13
         }
       ],
       "best_ai_token": {
-        "id": "render-token",
-        "symbol": "RNDR",
-        "usd": 1.95,
-        "usd_24h_change": 7.045687205394584,
-        "usd_market_cap": 1016229193.1654232
+        "id": "ocean-protocol",
+        "symbol": "OCEAN",
+        "usd": 0.143583,
+        "usd_24h_change": -3.0230932059545657,
+        "usd_market_cap": 28729369.317197576
       },
-      "btc_price": 77953,
-      "eth_price": 2449.02
+      "btc_price": 76254,
+      "eth_price": 2360.09
     },
     "fear_greed": {
       "current": {
-        "value": 21,
-        "label": "Extreme Fear",
-        "timestamp": "1776384000"
+        "value": 26,
+        "label": "Fear",
+        "timestamp": "1776470400"
       },
       "trend": "improving",
       "history_7d": [
+        {
+          "value": 26,
+          "label": "Fear",
+          "date": "2026-04-18T00:00:00+00:00"
+        },
         {
           "value": 21,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 16,
           "label": "Extreme Fear",
           "date": "2026-04-12T00:00:00+00:00"
-        },
-        {
-          "value": 15,
-          "label": "Extreme Fear",
-          "date": "2026-04-11T00:00:00+00:00"
         }
       ]
     },
@@ -215,13 +215,9 @@
       "positions_analyzed": 0
     },
     "signal": {
-      "action": "buy_dip",
-      "reasoning": [
-        "Extreme fear (21) -- contrarian buy signal",
-        "AI token RNDR up 7.0% -- momentum",
-        "BTC up 5.4% -- risk on environment"
-      ],
-      "fear_greed": 21,
+      "action": "hold",
+      "reasoning": [],
+      "fear_greed": 26,
       "kalshi_opp_count": 0
     }
   },
