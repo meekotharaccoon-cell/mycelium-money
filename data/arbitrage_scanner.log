@@ -1,20 +1,19 @@
 [arb_scanner] Starting full scan...
 [arb_scanner] Scanning stablecoin pegs...
 [arb_scanner] Scanning cross-exchange spreads...
-[arb_scanner] HTTP 429: https://api.coingecko.com/api/v3/coins/cardano/tickers?include_exchange_logo=false&depth=true -- Throttled
-
-[arb_scanner] HTTP 429: https://api.coingecko.com/api/v3/coins/polkadot/tickers?include_exchange_logo=false&depth=true -- Throttled
-
+[arb_scanner] HTTP 429: https://api.coingecko.com/api/v3/coins/solana/tickers?include_exchange_logo=false&depth=true -- {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+[arb_scanner] HTTP 429: https://api.coingecko.com/api/v3/coins/cardano/tickers?include_exchange_logo=false&depth=true -- {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
+[arb_scanner] HTTP 429: https://api.coingecko.com/api/v3/coins/polkadot/tickers?include_exchange_logo=false&depth=true -- {"status":{"error_code":429,"error_message":"You've exceeded the Rate Limit. Please visit https://www.coingecko.com/en/api/pricing to subscribe to our API plans for higher rate limits."}}
 [arb_scanner] Scanning Kalshi mispricings...
 
 ============================================================
 ARBITRAGE SCANNER -- Results
 ============================================================
-  Total opportunities: 2
+  Total opportunities: 1
     Stablecoin peg: 1
-    Crypto spread:  1
+    Crypto spread:  0
     Kalshi mispricing: 0
-  Best opportunity: crypto_spread
-    solana: buy on Coinstore @ $88.34, sell on bitcastle @ $88.78 = 0.50%
-  Elapsed: 7.0s
+  Best opportunity: stablecoin_peg
+    Buy FRAX at $0.9933, redeem at $1.00
+  Elapsed: 6.1s
 ============================================================
