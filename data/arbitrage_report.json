@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T15:10:34.743029+00:00",
+  "generated_at": "2026-04-25T14:45:08.526286+00:00",
   "status": "ok",
   "scanners": {
     "stablecoin_pegs": {
@@ -11,30 +11,30 @@
           "deviation_from_peg": 0.0,
           "deviation_pct": 0.0,
           "direction": "below",
-          "change_24h": 0.0036938512591512054,
-          "volume_24h": 62650120172.09339,
+          "change_24h": -0.01427354766602216,
+          "volume_24h": 37914795376.79122,
           "is_opportunity": false
         },
         {
           "symbol": "USDC",
           "coin_id": "usd-coin",
-          "price": 0.99982,
-          "deviation_from_peg": 0.00018,
-          "deviation_pct": 0.018,
+          "price": 0.999848,
+          "deviation_from_peg": 0.000152,
+          "deviation_pct": 0.0152,
           "direction": "below",
-          "change_24h": 0.000366787484481787,
-          "volume_24h": 14740664898.935865,
+          "change_24h": 0.0003618880625512813,
+          "volume_24h": 7878844122.086664,
           "is_opportunity": false
         },
         {
           "symbol": "DAI",
           "coin_id": "dai",
-          "price": 0.999761,
-          "deviation_from_peg": 0.000239,
-          "deviation_pct": 0.0239,
+          "price": 0.999863,
+          "deviation_from_peg": 0.000137,
+          "deviation_pct": 0.0137,
           "direction": "below",
-          "change_24h": 0.019597675073753647,
-          "volume_24h": 13117957.075453129,
+          "change_24h": 0.008955234540611706,
+          "volume_24h": 9372195.072894696,
           "is_opportunity": false
         },
         {
@@ -44,37 +44,37 @@
           "deviation_from_peg": 0.001,
           "deviation_pct": 0.1,
           "direction": "above",
-          "change_24h": 0.23718257518780275,
-          "volume_24h": 14028052.262320345,
+          "change_24h": -0.01463172928905016,
+          "volume_24h": 6254562.951563862,
           "is_opportunity": false
         },
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.993022,
-          "deviation_from_peg": 0.006978,
-          "deviation_pct": 0.6978,
+          "price": 0.993456,
+          "deviation_from_peg": 0.006544,
+          "deviation_pct": 0.6544,
           "direction": "below",
-          "change_24h": 0.0483903494618463,
-          "volume_24h": 936640.5783255332,
+          "change_24h": -0.014483568275653773,
+          "volume_24h": 182964.2502170807,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9930, redeem at $1.00",
-          "profit_per_unit": 0.006978
+          "action": "Buy FRAX at $0.9935, redeem at $1.00",
+          "profit_per_unit": 0.006544
         }
       ],
       "opportunities": [
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.993022,
-          "deviation_from_peg": 0.006978,
-          "deviation_pct": 0.6978,
+          "price": 0.993456,
+          "deviation_from_peg": 0.006544,
+          "deviation_pct": 0.6544,
           "direction": "below",
-          "change_24h": 0.0483903494618463,
-          "volume_24h": 936640.5783255332,
+          "change_24h": -0.014483568275653773,
+          "volume_24h": 182964.2502170807,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9930, redeem at $1.00",
-          "profit_per_unit": 0.006978
+          "action": "Buy FRAX at $0.9935, redeem at $1.00",
+          "profit_per_unit": 0.006544
         }
       ],
       "count": 1
@@ -100,18 +100,18 @@
       "detail": {
         "symbol": "FRAX",
         "coin_id": "frax",
-        "price": 0.993022,
-        "deviation_from_peg": 0.006978,
-        "deviation_pct": 0.6978,
+        "price": 0.993456,
+        "deviation_from_peg": 0.006544,
+        "deviation_pct": 0.6544,
         "direction": "below",
-        "change_24h": 0.0483903494618463,
-        "volume_24h": 936640.5783255332,
+        "change_24h": -0.014483568275653773,
+        "volume_24h": 182964.2502170807,
         "is_opportunity": true,
-        "action": "Buy FRAX at $0.9930, redeem at $1.00",
-        "profit_per_unit": 0.006978
+        "action": "Buy FRAX at $0.9935, redeem at $1.00",
+        "profit_per_unit": 0.006544
       }
     },
-    "scan_time": "2026-04-24T15:10:41.125348+00:00"
+    "scan_time": "2026-04-25T14:45:15.304070+00:00"
   },
-  "elapsed_seconds": 6.4
+  "elapsed_seconds": 6.8
 }
