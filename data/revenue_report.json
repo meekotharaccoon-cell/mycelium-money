@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T14:48:26.269487+00:00",
-  "cycle": 20,
+  "generated_at": "2026-04-27T15:50:36.553275+00:00",
+  "cycle": 21,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,91 +54,91 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 78035,
-          "usd_24h_change": 0.3799695851719095,
-          "usd_market_cap": 1562836868714.9937
+          "usd": 76852,
+          "usd_24h_change": -1.5510993021505137,
+          "usd_market_cap": 1541380190625.2126
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 2346.45,
-          "usd_24h_change": 1.2300647550880366,
-          "usd_market_cap": 283157212645.7804
+          "usd": 2276.54,
+          "usd_24h_change": -2.9716219407024114,
+          "usd_market_cap": 275148856432.4521
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.210359,
-          "usd_24h_change": 0.6651637195408787,
-          "usd_market_cap": 475486313.79511803
+          "usd": 0.205486,
+          "usd_24h_change": -2.1118541539596904,
+          "usd_market_cap": 464296484.3124418
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.944395,
-          "usd_24h_change": -0.03708695213622782,
-          "usd_market_cap": 730733482.9853758
+          "usd": 0.906314,
+          "usd_24h_change": -4.186974637666411,
+          "usd_market_cap": 701244986.7635564
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.134298,
-          "usd_24h_change": 0.8283360100198016,
-          "usd_market_cap": 26885447.941695888
+          "usd": 0.130693,
+          "usd_24h_change": -2.357570557801947,
+          "usd_market_cap": 26154703.23962736
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.82,
-          "usd_24h_change": 1.1009808815941031,
-          "usd_market_cap": 943187506.8017972
+          "usd": 1.76,
+          "usd_24h_change": -3.1853639691156537,
+          "usd_market_cap": 912233527.6815205
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.091264,
-          "usd_24h_change": 2.285061983076317,
-          "usd_market_cap": 22447788.209220707
+          "usd": 0.090407,
+          "usd_24h_change": -0.9085821304743079,
+          "usd_market_cap": 22158961.552285768
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 86.4,
-          "usd_24h_change": -0.28676312983975505,
-          "usd_market_cap": 49757797294.73169
+          "usd": 84.02,
+          "usd_24h_change": -2.9037905245074427,
+          "usd_market_cap": 48461180248.652435
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 1.0,
-          "usd_24h_change": -0.0037419531715857488
+          "usd": 0.999961,
+          "usd_24h_change": -0.022489490702323627
         },
         "USDC": {
-          "usd": 0.999861,
-          "usd_24h_change": 0.01679548344244323
+          "usd": 0.999785,
+          "usd_24h_change": -0.01834021812610312
         },
         "DAI": {
-          "usd": 0.999853,
-          "usd_24h_change": 0.0005538826997082148
+          "usd": 0.999728,
+          "usd_24h_change": -0.0040094436038924045
         }
       },
       "trending": [
         {
-          "id": "ultima",
-          "symbol": "ULTIMA",
-          "name": "Ultima",
-          "market_cap_rank": 263
-        },
-        {
-          "id": "orca",
-          "symbol": "ORCA",
-          "name": "Orca",
-          "market_cap_rank": 304
-        },
-        {
           "id": "pudgy-penguins",
           "symbol": "PENGU",
           "name": "Pudgy Penguins",
-          "market_cap_rank": 99
+          "market_cap_rank": 88
         },
         {
-          "id": "lido-dao",
-          "symbol": "LDO",
-          "name": "Lido DAO",
-          "market_cap_rank": 128
+          "id": "aave",
+          "symbol": "AAVE",
+          "name": "Aave",
+          "market_cap_rank": 54
+        },
+        {
+          "id": "terra-luna",
+          "symbol": "LUNC",
+          "name": "Terra Luna Classic",
+          "market_cap_rank": 129
+        },
+        {
+          "id": "chip-2",
+          "symbol": "CHIP",
+          "name": "USD.AI",
+          "market_cap_rank": 223
         },
         {
           "id": "bitcoin",
@@ -150,21 +150,26 @@
       "best_ai_token": {
         "id": "singularitynet",
         "symbol": "AGIX",
-        "usd": 0.091264,
-        "usd_24h_change": 2.285061983076317,
-        "usd_market_cap": 22447788.209220707
+        "usd": 0.090407,
+        "usd_24h_change": -0.9085821304743079,
+        "usd_market_cap": 22158961.552285768
       },
-      "btc_price": 78035,
-      "eth_price": 2346.45
+      "btc_price": 76852,
+      "eth_price": 2276.54
     },
     "fear_greed": {
       "current": {
-        "value": 33,
-        "label": "Fear",
-        "timestamp": "1777161600"
+        "value": 47,
+        "label": "Neutral",
+        "timestamp": "1777248000"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 47,
+          "label": "Neutral",
+          "date": "2026-04-27T00:00:00+00:00"
+        },
         {
           "value": 33,
           "label": "Fear",
@@ -194,11 +199,6 @@
           "value": 33,
           "label": "Fear",
           "date": "2026-04-21T00:00:00+00:00"
-        },
-        {
-          "value": 29,
-          "label": "Fear",
-          "date": "2026-04-20T00:00:00+00:00"
         }
       ]
     },
@@ -217,7 +217,7 @@
     "signal": {
       "action": "hold",
       "reasoning": [],
-      "fear_greed": 33,
+      "fear_greed": 47,
       "kalshi_opp_count": 0
     }
   },
