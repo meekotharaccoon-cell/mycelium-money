@@ -9,11 +9,11 @@
 ============================================================
 ARBITRAGE SCANNER -- Results
 ============================================================
-  Total opportunities: 2
-    Stablecoin peg: 2
+  Total opportunities: 1
+    Stablecoin peg: 1
     Crypto spread:  0
     Kalshi mispricing: 0
   Best opportunity: stablecoin_peg
-    Buy TUSD at $0.9980, redeem at $1.00
-  Elapsed: 6.4s
+    Buy FRAX at $0.9928, redeem at $1.00
+  Elapsed: 6.8s
 ============================================================
