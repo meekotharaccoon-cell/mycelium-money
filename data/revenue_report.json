@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T16:33:48.638293+00:00",
-  "cycle": 35,
+  "generated_at": "2026-05-12T16:20:52.527659+00:00",
+  "cycle": 36,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,85 +54,73 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 81834,
-          "usd_24h_change": 0.7870267704270628,
-          "usd_market_cap": 1638388519759.5444
+          "usd": 80318,
+          "usd_24h_change": -1.8046360399398609,
+          "usd_market_cap": 1608128877648.085
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 2336.98,
-          "usd_24h_change": -0.3182491181895585,
-          "usd_market_cap": 282049986989.3019
+          "usd": 2268.65,
+          "usd_24h_change": -2.9922079046588004,
+          "usd_market_cap": 273714853965.0897
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.236768,
-          "usd_24h_change": -1.0141539069593426,
-          "usd_market_cap": 534874002.73810434
+          "usd": 0.223327,
+          "usd_24h_change": -5.9131352117771145,
+          "usd_market_cap": 504432834.589719
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 1.14,
-          "usd_24h_change": -3.862934714265398,
-          "usd_market_cap": 887187152.2178766
+          "usd": 1.081,
+          "usd_24h_change": -5.09472801637237,
+          "usd_market_cap": 843039971.7844378
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.124364,
-          "usd_24h_change": 0.46897286655356646,
-          "usd_market_cap": 24885538.366862237
+          "usd": 0.120019,
+          "usd_24h_change": -3.470694576418878,
+          "usd_market_cap": 23964280.180725265
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.96,
-          "usd_24h_change": -3.9800849865176304,
-          "usd_market_cap": 1018212714.6360753
+          "usd": 1.86,
+          "usd_24h_change": -5.000118189183158,
+          "usd_market_cap": 967356454.817991
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.102134,
-          "usd_24h_change": -1.1544683979214738,
-          "usd_market_cap": 24979234.638579965
+          "usd": 0.098115,
+          "usd_24h_change": -3.817645292898434,
+          "usd_market_cap": 23995168.53952355
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 97.66,
-          "usd_24h_change": 3.4934460552490094,
-          "usd_market_cap": 56433657532.58739
+          "usd": 94.17,
+          "usd_24h_change": -3.4534161126144145,
+          "usd_market_cap": 54408487442.268745
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.999598,
-          "usd_24h_change": -0.01841820628608889
+          "usd": 0.999638,
+          "usd_24h_change": 0.0055972951770216954
         },
         "USDC": {
-          "usd": 0.999723,
-          "usd_24h_change": -0.011882131031533027
+          "usd": 0.999837,
+          "usd_24h_change": 0.008751131098738443
         },
         "DAI": {
-          "usd": 0.999649,
-          "usd_24h_change": 0.00190428919098366
+          "usd": 0.999437,
+          "usd_24h_change": -0.019138669664217147
         }
       },
       "trending": [
         {
-          "id": "bertram-the-pomeranian",
-          "symbol": "BERT",
-          "name": "Bertram The Pomeranian",
-          "market_cap_rank": 915
-        },
-        {
-          "id": "osmosis",
-          "symbol": "OSMO",
-          "name": "Osmosis",
-          "market_cap_rank": 400
-        },
-        {
-          "id": "venice-token",
-          "symbol": "VVV",
-          "name": "Venice Token",
-          "market_cap_rank": 85
+          "id": "zcoin",
+          "symbol": "FIRO",
+          "name": "Firo",
+          "market_cap_rank": 811
         },
         {
           "id": "zano",
@@ -141,30 +129,47 @@
           "market_cap_rank": 201
         },
         {
-          "id": "sui",
-          "symbol": "SUI",
-          "name": "Sui",
-          "market_cap_rank": 23
+          "id": "saga-2",
+          "symbol": "SAGA",
+          "name": "Saga",
+          "market_cap_rank": 942
+        },
+        {
+          "id": "billions-network",
+          "symbol": "BILL",
+          "name": "Billions Network",
+          "market_cap_rank": 120
+        },
+        {
+          "id": "wojak-5",
+          "symbol": "WOJAK",
+          "name": "wojak",
+          "market_cap_rank": 605
         }
       ],
       "best_ai_token": {
         "id": "ocean-protocol",
         "symbol": "OCEAN",
-        "usd": 0.124364,
-        "usd_24h_change": 0.46897286655356646,
-        "usd_market_cap": 24885538.366862237
+        "usd": 0.120019,
+        "usd_24h_change": -3.470694576418878,
+        "usd_market_cap": 23964280.180725265
       },
-      "btc_price": 81834,
-      "eth_price": 2336.98
+      "btc_price": 80318,
+      "eth_price": 2268.65
     },
     "fear_greed": {
       "current": {
-        "value": 48,
+        "value": 49,
         "label": "Neutral",
-        "timestamp": "1778457600"
+        "timestamp": "1778544000"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 49,
+          "label": "Neutral",
+          "date": "2026-05-12T00:00:00+00:00"
+        },
         {
           "value": 48,
           "label": "Neutral",
@@ -194,11 +199,6 @@
           "value": 46,
           "label": "Fear",
           "date": "2026-05-06T00:00:00+00:00"
-        },
-        {
-          "value": 50,
-          "label": "Neutral",
-          "date": "2026-05-05T00:00:00+00:00"
         }
       ]
     },
@@ -217,9 +217,9 @@
     "signal": {
       "action": "hold",
       "reasoning": [],
-      "fear_greed": 48,
+      "fear_greed": 49,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 5.8
+  "elapsed_seconds": 6.4
 }
