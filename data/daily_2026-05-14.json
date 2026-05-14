@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T16:10:28.969003Z",
+  "revenue": {
+    "kalshi_opportunities": 0,
+    "btc_price": 81433,
+    "eth_price": 2304.7,
+    "fear_greed": 34,
+    "signal": "hold"
+  },
+  "arbitrage": {
+    "total_opportunities": 2,
+    "stablecoin_opps": 1,
+    "crypto_spread_opps": 1,
+    "kalshi_mispricing_opps": 0
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T16:21:14.590942+00:00",
+  "generated_at": "2026-05-14T16:10:22.159085+00:00",
   "status": "ok",
   "scanners": {
     "stablecoin_pegs": {
@@ -7,94 +7,97 @@
         {
           "symbol": "USDT",
           "coin_id": "tether",
-          "price": 0.999475,
-          "deviation_from_peg": 0.000525,
-          "deviation_pct": 0.0525,
+          "price": 0.999671,
+          "deviation_from_peg": 0.000329,
+          "deviation_pct": 0.0329,
           "direction": "below",
-          "change_24h": -0.0160964532682167,
-          "volume_24h": 69481472466.51057,
+          "change_24h": 0.014722718705983816,
+          "volume_24h": 62444036721.691376,
           "is_opportunity": false
         },
         {
           "symbol": "USDC",
           "coin_id": "usd-coin",
-          "price": 0.99832,
-          "deviation_from_peg": 0.00168,
-          "deviation_pct": 0.168,
+          "price": 0.999846,
+          "deviation_from_peg": 0.000154,
+          "deviation_pct": 0.0154,
           "direction": "below",
-          "change_24h": -0.14925723608983585,
-          "volume_24h": 16846902490.15563,
+          "change_24h": 0.16243482112266516,
+          "volume_24h": 12731899815.151525,
           "is_opportunity": false
         },
         {
           "symbol": "DAI",
           "coin_id": "dai",
-          "price": 0.999672,
-          "deviation_from_peg": 0.000328,
-          "deviation_pct": 0.0328,
+          "price": 0.999697,
+          "deviation_from_peg": 0.000303,
+          "deviation_pct": 0.0303,
           "direction": "below",
-          "change_24h": 0.023880227227027137,
-          "volume_24h": 202992329.25224805,
+          "change_24h": -0.0025215435324420403,
+          "volume_24h": 215443298.80484292,
           "is_opportunity": false
         },
         {
           "symbol": "TUSD",
           "coin_id": "true-usd",
-          "price": 0.999069,
-          "deviation_from_peg": 0.000931,
-          "deviation_pct": 0.0931,
+          "price": 0.999322,
+          "deviation_from_peg": 0.000678,
+          "deviation_pct": 0.0678,
           "direction": "below",
-          "change_24h": -0.026341905962902125,
-          "volume_24h": 7490419.297654645,
+          "change_24h": -0.02660477883866087,
+          "volume_24h": 8633976.697535478,
           "is_opportunity": false
         },
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.993618,
-          "deviation_from_peg": 0.006382,
-          "deviation_pct": 0.6382,
+          "price": 0.9948,
+          "deviation_from_peg": 0.0052,
+          "deviation_pct": 0.52,
           "direction": "below",
-          "change_24h": 0.026943817769062302,
-          "volume_24h": 407852.05635171983,
+          "change_24h": 0.16145591299424458,
+          "volume_24h": 469171.9233577895,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9936, redeem at $1.00",
-          "profit_per_unit": 0.006382
-        },
-        {
-          "symbol": "USDC/USDT",
-          "coin_id": "cross-stable",
-          "price": null,
-          "deviation_from_peg": 0.001155,
-          "deviation_pct": 0.1155,
-          "direction": "spread",
-          "change_24h": 0,
-          "volume_24h": 0,
-          "is_opportunity": false,
-          "action": "Buy USDC -> swap to USDT (spread: $0.0012)",
-          "profit_per_unit": 0.001155
+          "action": "Buy FRAX at $0.9948, redeem at $1.00",
+          "profit_per_unit": 0.0052
         }
       ],
       "opportunities": [
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.993618,
-          "deviation_from_peg": 0.006382,
-          "deviation_pct": 0.6382,
+          "price": 0.9948,
+          "deviation_from_peg": 0.0052,
+          "deviation_pct": 0.52,
           "direction": "below",
-          "change_24h": 0.026943817769062302,
-          "volume_24h": 407852.05635171983,
+          "change_24h": 0.16145591299424458,
+          "volume_24h": 469171.9233577895,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9936, redeem at $1.00",
-          "profit_per_unit": 0.006382
+          "action": "Buy FRAX at $0.9948, redeem at $1.00",
+          "profit_per_unit": 0.0052
         }
       ],
       "count": 1
     },
     "crypto_spreads": {
-      "opportunities": [],
-      "count": 0,
+      "opportunities": [
+        {
+          "coin": "ethereum",
+          "buy_exchange": "Nonkyc.io",
+          "buy_price": 2295.28,
+          "buy_pair": "ETH/USDT",
+          "buy_volume_usd": 2407298,
+          "sell_exchange": "BitMart",
+          "sell_price": 2308.42,
+          "sell_pair": "ETH/USDT",
+          "sell_volume_usd": 332520253,
+          "spread_pct": 0.572,
+          "spread_usd": 13.14,
+          "exchanges_checked": 83,
+          "timestamp": "2026-05-14T16:10:23.269447+00:00"
+        }
+      ],
+      "count": 1,
       "coins_checked": 5
     },
     "kalshi_mispricings": {
@@ -104,27 +107,29 @@
     }
   },
   "summary": {
-    "total_opportunities": 1,
+    "total_opportunities": 2,
     "stablecoin_peg_opps": 1,
-    "crypto_spread_opps": 0,
+    "crypto_spread_opps": 1,
     "kalshi_mispricing_opps": 0,
     "best_opportunity": {
-      "type": "stablecoin_peg",
+      "type": "crypto_spread",
       "detail": {
-        "symbol": "FRAX",
-        "coin_id": "frax",
-        "price": 0.993618,
-        "deviation_from_peg": 0.006382,
-        "deviation_pct": 0.6382,
-        "direction": "below",
-        "change_24h": 0.026943817769062302,
-        "volume_24h": 407852.05635171983,
-        "is_opportunity": true,
-        "action": "Buy FRAX at $0.9936, redeem at $1.00",
-        "profit_per_unit": 0.006382
+        "coin": "ethereum",
+        "buy_exchange": "Nonkyc.io",
+        "buy_price": 2295.28,
+        "buy_pair": "ETH/USDT",
+        "buy_volume_usd": 2407298,
+        "sell_exchange": "BitMart",
+        "sell_price": 2308.42,
+        "sell_pair": "ETH/USDT",
+        "sell_volume_usd": 332520253,
+        "spread_pct": 0.572,
+        "spread_usd": 13.14,
+        "exchanges_checked": 83,
+        "timestamp": "2026-05-14T16:10:23.269447+00:00"
       }
     },
-    "scan_time": "2026-05-13T16:21:21.298215+00:00"
+    "scan_time": "2026-05-14T16:10:28.928753+00:00"
   },
-  "elapsed_seconds": 6.7
+  "elapsed_seconds": 6.8
 }
