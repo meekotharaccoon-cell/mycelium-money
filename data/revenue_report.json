@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T16:04:10.526777+00:00",
-  "cycle": 39,
+  "generated_at": "2026-05-16T14:58:57.838100+00:00",
+  "cycle": 40,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,117 +54,122 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 79139,
-          "usd_24h_change": -2.6803903156830327,
-          "usd_market_cap": 1584796185012.9084
+          "usd": 78088,
+          "usd_24h_change": -1.4139689345737632,
+          "usd_market_cap": 1564324587379.6091
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 2221.07,
-          "usd_24h_change": -3.356391022078468,
-          "usd_market_cap": 268058451857.82626
+          "usd": 2178.77,
+          "usd_24h_change": -1.6195432506282286,
+          "usd_market_cap": 262943040655.41806
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.202988,
-          "usd_24h_change": -6.75421011024173,
-          "usd_market_cap": 458425183.96761405
+          "usd": 0.195973,
+          "usd_24h_change": -3.3335515577677617,
+          "usd_market_cap": 442682859.43967867
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.995863,
-          "usd_24h_change": -6.110862628888629,
-          "usd_market_cap": 777176402.1222217
+          "usd": 0.974053,
+          "usd_24h_change": -2.160506047176124,
+          "usd_market_cap": 761179971.2654172
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.120779,
-          "usd_24h_change": -3.0340799242572567,
-          "usd_market_cap": 24165108.248767283
+          "usd": 0.125257,
+          "usd_24h_change": 3.6068261216294535,
+          "usd_market_cap": 25056650.347271923
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.83,
-          "usd_24h_change": -5.616157131482303,
-          "usd_market_cap": 949402154.63728
+          "usd": 1.84,
+          "usd_24h_change": 1.2089987950224814,
+          "usd_market_cap": 953008183.9191276
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.090074,
-          "usd_24h_change": -4.20313031697241,
-          "usd_market_cap": 21996563.17442718
+          "usd": 0.085303,
+          "usd_24h_change": -5.14138475872145,
+          "usd_market_cap": 20866036.424396873
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 88.99,
-          "usd_24h_change": -4.487511017299433,
-          "usd_market_cap": 51455367326.164604
+          "usd": 86.37,
+          "usd_24h_change": -3.0706052824029326,
+          "usd_market_cap": 49927660594.489395
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.999498,
-          "usd_24h_change": -0.021496378765629473
+          "usd": 0.999489,
+          "usd_24h_change": -0.005302642388385776
         },
         "USDC": {
-          "usd": 0.99981,
-          "usd_24h_change": 0.0025037579144459787
+          "usd": 0.999792,
+          "usd_24h_change": -0.004491750685369095
         },
         "DAI": {
-          "usd": 0.999792,
-          "usd_24h_change": 0.01795653303126059
+          "usd": 0.999723,
+          "usd_24h_change": -0.0008618791767907723
         }
       },
       "trending": [
         {
-          "id": "zano",
-          "symbol": "ZANO",
-          "name": "Zano",
-          "market_cap_rank": 207
+          "id": "billions-network",
+          "symbol": "BILL",
+          "name": "Billions Network",
+          "market_cap_rank": 133
         },
         {
-          "id": "hyperliquid",
-          "symbol": "HYPE",
-          "name": "Hyperliquid",
-          "market_cap_rank": 13
+          "id": "sui",
+          "symbol": "SUI",
+          "name": "Sui",
+          "market_cap_rank": 27
         },
         {
-          "id": "megaeth",
-          "symbol": "MEGA",
-          "name": "MegaETH",
-          "market_cap_rank": 280
+          "id": "bittensor",
+          "symbol": "TAO",
+          "name": "Bittensor",
+          "market_cap_rank": 39
         },
         {
-          "id": "venice-token",
-          "symbol": "VVV",
-          "name": "Venice Token",
-          "market_cap_rank": 89
+          "id": "zcash",
+          "symbol": "ZEC",
+          "name": "Zcash",
+          "market_cap_rank": 16
         },
         {
-          "id": "bitcoin",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "market_cap_rank": 1
+          "id": "pi-network",
+          "symbol": "PI",
+          "name": "Pi Network",
+          "market_cap_rank": 51
         }
       ],
       "best_ai_token": {
         "id": "ocean-protocol",
         "symbol": "OCEAN",
-        "usd": 0.120779,
-        "usd_24h_change": -3.0340799242572567,
-        "usd_market_cap": 24165108.248767283
+        "usd": 0.125257,
+        "usd_24h_change": 3.6068261216294535,
+        "usd_market_cap": 25056650.347271923
       },
-      "btc_price": 79139,
-      "eth_price": 2221.07
+      "btc_price": 78088,
+      "eth_price": 2178.77
     },
     "fear_greed": {
       "current": {
-        "value": 43,
+        "value": 31,
         "label": "Fear",
-        "timestamp": "1778803200"
+        "timestamp": "1778889600"
       },
-      "trend": "stable",
+      "trend": "deteriorating",
       "history_7d": [
+        {
+          "value": 31,
+          "label": "Fear",
+          "date": "2026-05-16T00:00:00+00:00"
+        },
         {
           "value": 43,
           "label": "Fear",
@@ -194,11 +199,6 @@
           "value": 47,
           "label": "Neutral",
           "date": "2026-05-10T00:00:00+00:00"
-        },
-        {
-          "value": 38,
-          "label": "Fear",
-          "date": "2026-05-09T00:00:00+00:00"
         }
       ]
     },
@@ -217,9 +217,9 @@
     "signal": {
       "action": "hold",
       "reasoning": [],
-      "fear_greed": 43,
+      "fear_greed": 31,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 4.9
+  "elapsed_seconds": 6.2
 }
