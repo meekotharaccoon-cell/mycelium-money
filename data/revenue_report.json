@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T16:47:47.838151+00:00",
-  "cycle": 42,
+  "generated_at": "2026-05-19T16:50:29.591520+00:00",
+  "cycle": 43,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,117 +54,122 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 76435,
-          "usd_24h_change": -2.0952138302113488,
-          "usd_market_cap": 1530159348296.1316
+          "usd": 76721,
+          "usd_24h_change": 0.4629733060546256,
+          "usd_market_cap": 1537165649176.0479
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 2098.27,
-          "usd_24h_change": -3.9408776699398884,
-          "usd_market_cap": 252966023281.2961
+          "usd": 2115.53,
+          "usd_24h_change": 0.8294403172281556,
+          "usd_market_cap": 255386032875.50186
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.189105,
-          "usd_24h_change": -3.2657545927648717,
-          "usd_market_cap": 427138515.42940396
+          "usd": 0.191365,
+          "usd_24h_change": 1.152768771937015,
+          "usd_market_cap": 432088784.21096146
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.939402,
-          "usd_24h_change": -2.6460050586895254,
-          "usd_market_cap": 733956462.2160908
+          "usd": 0.943086,
+          "usd_24h_change": 0.401514093583477,
+          "usd_market_cap": 737540960.1069107
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.119793,
-          "usd_24h_change": -3.04021082960879,
-          "usd_market_cap": 23960705.761240073
+          "usd": 0.118966,
+          "usd_24h_change": -0.6760842356982384,
+          "usd_market_cap": 23806573.921936877
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.76,
-          "usd_24h_change": -3.416168857881184,
-          "usd_market_cap": 915145534.1240681
+          "usd": 1.83,
+          "usd_24h_change": 3.9518356014425966,
+          "usd_market_cap": 951069318.8954066
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.082253,
-          "usd_24h_change": -3.749025753959604,
-          "usd_market_cap": 20058622.868243985
+          "usd": 0.082316,
+          "usd_24h_change": 0.11285519757893746,
+          "usd_market_cap": 20109284.558613446
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 84.35,
-          "usd_24h_change": -2.398327745602275,
-          "usd_market_cap": 48754586737.982666
+          "usd": 84.65,
+          "usd_24h_change": 0.3986514504617238,
+          "usd_market_cap": 48957904129.3213
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.999231,
-          "usd_24h_change": -0.02469656969226183
+          "usd": 0.999143,
+          "usd_24h_change": -0.0076741777535130505
         },
         "USDC": {
-          "usd": 0.999745,
-          "usd_24h_change": -0.003106222477930402
+          "usd": 0.999731,
+          "usd_24h_change": 0.0027171001366340583
         },
         "DAI": {
-          "usd": 0.999728,
-          "usd_24h_change": 0.013676140062387598
+          "usd": 0.999733,
+          "usd_24h_change": 0.013948964471649452
         }
       },
       "trending": [
         {
-          "id": "zano",
-          "symbol": "ZANO",
-          "name": "Zano",
-          "market_cap_rank": 197
+          "id": "zest-protocol",
+          "symbol": "ZEST",
+          "name": "Zest Protocol",
+          "market_cap_rank": 948
         },
         {
           "id": "hyperliquid",
           "symbol": "HYPE",
           "name": "Hyperliquid",
-          "market_cap_rank": 13
+          "market_cap_rank": 12
         },
         {
-          "id": "bitcoin",
-          "symbol": "BTC",
-          "name": "Bitcoin",
-          "market_cap_rank": 1
+          "id": "zcash",
+          "symbol": "ZEC",
+          "name": "Zcash",
+          "market_cap_rank": 14
         },
         {
-          "id": "megaeth",
-          "symbol": "MEGA",
-          "name": "MegaETH",
-          "market_cap_rank": 298
+          "id": "pudgy-penguins",
+          "symbol": "PENGU",
+          "name": "Pudgy Penguins",
+          "market_cap_rank": 99
         },
         {
           "id": "venice-token",
           "symbol": "VVV",
           "name": "Venice Token",
-          "market_cap_rank": 86
+          "market_cap_rank": 85
         }
       ],
       "best_ai_token": {
-        "id": "ocean-protocol",
-        "symbol": "OCEAN",
-        "usd": 0.119793,
-        "usd_24h_change": -3.04021082960879,
-        "usd_market_cap": 23960705.761240073
+        "id": "render-token",
+        "symbol": "RNDR",
+        "usd": 1.83,
+        "usd_24h_change": 3.9518356014425966,
+        "usd_market_cap": 951069318.8954066
       },
-      "btc_price": 76435,
-      "eth_price": 2098.27
+      "btc_price": 76721,
+      "eth_price": 2115.53
     },
     "fear_greed": {
       "current": {
-        "value": 28,
-        "label": "Fear",
-        "timestamp": "1779062400"
+        "value": 25,
+        "label": "Extreme Fear",
+        "timestamp": "1779148800"
       },
       "trend": "deteriorating",
       "history_7d": [
+        {
+          "value": 25,
+          "label": "Extreme Fear",
+          "date": "2026-05-19T00:00:00+00:00"
+        },
         {
           "value": 28,
           "label": "Fear",
@@ -194,11 +199,6 @@
           "value": 42,
           "label": "Fear",
           "date": "2026-05-13T00:00:00+00:00"
-        },
-        {
-          "value": 49,
-          "label": "Neutral",
-          "date": "2026-05-12T00:00:00+00:00"
         }
       ]
     },
@@ -215,11 +215,13 @@
       "positions_analyzed": 0
     },
     "signal": {
-      "action": "hold",
-      "reasoning": [],
-      "fear_greed": 28,
+      "action": "buy_dip",
+      "reasoning": [
+        "Extreme fear (25) -- contrarian buy signal"
+      ],
+      "fear_greed": 25,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 5.0
+  "elapsed_seconds": 6.1
 }
