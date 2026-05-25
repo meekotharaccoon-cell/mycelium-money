@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T15:05:59.741211+00:00",
-  "cycle": 48,
+  "generated_at": "2026-05-25T16:23:47.466931+00:00",
+  "cycle": 49,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,68 +54,74 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 76411,
-          "usd_24h_change": 1.2088692480145524,
-          "usd_market_cap": 1529984358582.1182
+          "usd": 77461,
+          "usd_24h_change": 1.193163775619997,
+          "usd_market_cap": 1551693655984.6042
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 2096.37,
-          "usd_24h_change": 1.620927196677487,
-          "usd_market_cap": 252860831672.52576
+          "usd": 2124.07,
+          "usd_24h_change": 1.0579051269605881,
+          "usd_market_cap": 256322461436.19003
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.210196,
-          "usd_24h_change": 3.019601681362177,
-          "usd_market_cap": 474469623.0750936
+          "usd": 0.221377,
+          "usd_24h_change": 3.414226748471468,
+          "usd_market_cap": 499856511.53212726
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.954637,
-          "usd_24h_change": 0.6039838656323596,
-          "usd_market_cap": 746862440.5582254
+          "usd": 0.99248,
+          "usd_24h_change": 3.6445683053355533,
+          "usd_market_cap": 777613843.6311615
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.11718,
-          "usd_24h_change": 0.8001321910590128,
-          "usd_market_cap": 23441362.43716086
+          "usd": 0.122582,
+          "usd_24h_change": 4.022534022173415,
+          "usd_market_cap": 24526337.624904875
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.96,
-          "usd_24h_change": 4.287309211437562,
-          "usd_market_cap": 1011844542.2799188
+          "usd": 2.19,
+          "usd_24h_change": 10.637191468692649,
+          "usd_market_cap": 1133939440.487096
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.090089,
-          "usd_24h_change": 2.027939421454091,
-          "usd_market_cap": 22057699.14128724
+          "usd": 0.096503,
+          "usd_24h_change": 4.938688800562648,
+          "usd_market_cap": 23578033.54052742
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 85.21,
-          "usd_24h_change": 1.017123694754677,
-          "usd_market_cap": 49219243245.52797
+          "usd": 85.94,
+          "usd_24h_change": 0.44928605379839104,
+          "usd_market_cap": 49709229973.14524
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.998771,
-          "usd_24h_change": -0.005781765350969802
+          "usd": 0.999026,
+          "usd_24h_change": 0.024326946987042172
         },
         "USDC": {
-          "usd": 0.999732,
-          "usd_24h_change": -0.007660236942550589
+          "usd": 0.999684,
+          "usd_24h_change": -0.012962744410082598
         },
         "DAI": {
-          "usd": 0.999624,
-          "usd_24h_change": 0.0014808601434100526
+          "usd": 0.999566,
+          "usd_24h_change": -0.004125329153943811
         }
       },
       "trending": [
+        {
+          "id": "solstice",
+          "symbol": "SLX",
+          "name": "Solstice",
+          "market_cap_rank": 409
+        },
         {
           "id": "hyperliquid",
           "symbol": "HYPE",
@@ -126,45 +132,44 @@
           "id": "near",
           "symbol": "NEAR",
           "name": "NEAR Protocol",
-          "market_cap_rank": 34
+          "market_cap_rank": 33
         },
         {
-          "id": "venice-token",
-          "symbol": "VVV",
-          "name": "Venice Token",
-          "market_cap_rank": 76
+          "id": "pudgy-penguins",
+          "symbol": "PENGU",
+          "name": "Pudgy Penguins",
+          "market_cap_rank": 95
         },
         {
-          "id": "octra",
-          "symbol": "OCT",
-          "name": "Octra",
-          "market_cap_rank": 487
-        },
-        {
-          "id": "grass",
-          "symbol": "GRASS",
-          "name": "Grass",
-          "market_cap_rank": 143
+          "id": "zcash",
+          "symbol": "ZEC",
+          "name": "Zcash",
+          "market_cap_rank": 12
         }
       ],
       "best_ai_token": {
         "id": "render-token",
         "symbol": "RNDR",
-        "usd": 1.96,
-        "usd_24h_change": 4.287309211437562,
-        "usd_market_cap": 1011844542.2799188
+        "usd": 2.19,
+        "usd_24h_change": 10.637191468692649,
+        "usd_market_cap": 1133939440.487096
       },
-      "btc_price": 76411,
-      "eth_price": 2096.37
+      "btc_price": 77461,
+      "eth_price": 2124.07
     },
     "fear_greed": {
       "current": {
-        "value": 25,
-        "label": "Extreme Fear",
-        "timestamp": "1779580800"
+        "value": 30,
+        "label": "Fear",
+        "timestamp": "1779667200"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 30,
+          "label": "Fear",
+          "date": "2026-05-25T00:00:00+00:00"
+        },
         {
           "value": 25,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 25,
           "label": "Extreme Fear",
           "date": "2026-05-19T00:00:00+00:00"
-        },
-        {
-          "value": 28,
-          "label": "Fear",
-          "date": "2026-05-18T00:00:00+00:00"
         }
       ]
     },
@@ -215,13 +215,13 @@
       "positions_analyzed": 0
     },
     "signal": {
-      "action": "buy_dip",
+      "action": "hold",
       "reasoning": [
-        "Extreme fear (25) -- contrarian buy signal"
+        "AI token RNDR up 10.6% -- momentum"
       ],
-      "fear_greed": 25,
+      "fear_greed": 30,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 6.0
+  "elapsed_seconds": 4.9
 }
