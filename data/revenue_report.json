@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T18:06:07.471482+00:00",
-  "cycle": 57,
+  "generated_at": "2026-06-03T18:23:28.220296+00:00",
+  "cycle": 58,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,65 +54,65 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 67445,
-          "usd_24h_change": -5.632364990898912,
-          "usd_market_cap": 1350635738066.851
+          "usd": 65730,
+          "usd_24h_change": -2.3830788119074837,
+          "usd_market_cap": 1316931736665.028
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 1923.23,
-          "usd_24h_change": -3.067341396314409,
-          "usd_market_cap": 231787451693.61795
+          "usd": 1821.27,
+          "usd_24h_change": -4.923624929545429,
+          "usd_market_cap": 219817218027.87256
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.265946,
-          "usd_24h_change": -4.239656349838114,
-          "usd_market_cap": 596801855.5068569
+          "usd": 0.258224,
+          "usd_24h_change": -2.140114562598546,
+          "usd_market_cap": 583986025.6341785
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.900333,
-          "usd_24h_change": -4.419155479740073,
-          "usd_market_cap": 709003882.5523126
+          "usd": 0.9305,
+          "usd_24h_change": 4.872132312212992,
+          "usd_market_cap": 732392413.5313377
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.130098,
-          "usd_24h_change": -3.4907498829755848,
-          "usd_market_cap": 26015014.57281165
+          "usd": 0.127131,
+          "usd_24h_change": -1.6605339512687038,
+          "usd_market_cap": 25441126.400516577
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 2.14,
-          "usd_24h_change": 4.128962067012586,
-          "usd_market_cap": 1107687379.7780807
+          "usd": 2.11,
+          "usd_24h_change": -0.27643448555124894,
+          "usd_market_cap": 1093861650.4468775
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.114887,
-          "usd_24h_change": -4.6461397934494615,
-          "usd_market_cap": 27906363.537982456
+          "usd": 0.112505,
+          "usd_24h_change": -2.540675964793546,
+          "usd_market_cap": 27362037.60839449
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 76.8,
-          "usd_24h_change": -4.788740925808354,
-          "usd_market_cap": 44397768395.90834
+          "usd": 72.7,
+          "usd_24h_change": -4.904356580616173,
+          "usd_market_cap": 42127726594.224724
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.998453,
-          "usd_24h_change": -0.012467267932531024
+          "usd": 0.998689,
+          "usd_24h_change": 0.023269279956641298
         },
         "USDC": {
-          "usd": 0.9997,
-          "usd_24h_change": 0.0022372192711849347
+          "usd": 0.999526,
+          "usd_24h_change": -0.0154019005993473
         },
         "DAI": {
-          "usd": 0.999746,
-          "usd_24h_change": -0.0002397197436319404
+          "usd": 0.999582,
+          "usd_24h_change": -0.018094518306005794
         }
       },
       "trending": [
@@ -123,48 +123,53 @@
           "market_cap_rank": 112
         },
         {
+          "id": "venice-token",
+          "symbol": "VVV",
+          "name": "Venice Token",
+          "market_cap_rank": 77
+        },
+        {
+          "id": "pudgy-penguins",
+          "symbol": "PENGU",
+          "name": "Pudgy Penguins",
+          "market_cap_rank": 114
+        },
+        {
+          "id": "worldcoin-wld",
+          "symbol": "WLD",
+          "name": "Worldcoin",
+          "market_cap_rank": 51
+        },
+        {
           "id": "lab",
           "symbol": "LAB",
           "name": "LAB",
-          "market_cap_rank": 18
-        },
-        {
-          "id": "lighter",
-          "symbol": "LIT",
-          "name": "Lighter",
-          "market_cap_rank": 124
-        },
-        {
-          "id": "ethena",
-          "symbol": "ENA",
-          "name": "Ethena",
-          "market_cap_rank": 79
-        },
-        {
-          "id": "hyperliquid",
-          "symbol": "HYPE",
-          "name": "Hyperliquid",
-          "market_cap_rank": 10
+          "market_cap_rank": 22
         }
       ],
       "best_ai_token": {
         "id": "render-token",
         "symbol": "RNDR",
-        "usd": 2.14,
-        "usd_24h_change": 4.128962067012586,
-        "usd_market_cap": 1107687379.7780807
+        "usd": 2.11,
+        "usd_24h_change": -0.27643448555124894,
+        "usd_market_cap": 1093861650.4468775
       },
-      "btc_price": 67445,
-      "eth_price": 1923.23
+      "btc_price": 65730,
+      "eth_price": 1821.27
     },
     "fear_greed": {
       "current": {
-        "value": 23,
+        "value": 11,
         "label": "Extreme Fear",
-        "timestamp": "1780358400"
+        "timestamp": "1780444800"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 11,
+          "label": "Extreme Fear",
+          "date": "2026-06-03T00:00:00+00:00"
+        },
         {
           "value": 23,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 22,
           "label": "Extreme Fear",
           "date": "2026-05-28T00:00:00+00:00"
-        },
-        {
-          "value": 25,
-          "label": "Extreme Fear",
-          "date": "2026-05-27T00:00:00+00:00"
         }
       ]
     },
@@ -215,14 +215,13 @@
       "positions_analyzed": 0
     },
     "signal": {
-      "action": "caution",
+      "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (23) -- contrarian buy signal",
-        "BTC down -5.6% -- risk off environment"
+        "Extreme fear (11) -- contrarian buy signal"
       ],
-      "fear_greed": 23,
+      "fear_greed": 11,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 6.6
+  "elapsed_seconds": 5.2
 }
