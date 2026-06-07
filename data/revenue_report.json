@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T15:17:59.108645+00:00",
-  "cycle": 61,
+  "generated_at": "2026-06-07T15:24:50.200321+00:00",
+  "cycle": 62,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,85 +54,79 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 60600,
-          "usd_24h_change": -0.2958273834226757,
-          "usd_market_cap": 1213805730954.6277
+          "usd": 61794,
+          "usd_24h_change": 2.128426490129242,
+          "usd_market_cap": 1238267388848.107
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 1552.38,
-          "usd_24h_change": -2.3764642619364142,
-          "usd_market_cap": 187146723472.66992
+          "usd": 1627.64,
+          "usd_24h_change": 4.888534398311473,
+          "usd_market_cap": 196401773820.6079
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.192614,
-          "usd_24h_change": -0.850174797429163,
-          "usd_market_cap": 435208030.1638962
+          "usd": 0.211351,
+          "usd_24h_change": 10.078104392315131,
+          "usd_market_cap": 477351259.87230045
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.719973,
-          "usd_24h_change": -6.378659904166224,
-          "usd_market_cap": 567557352.0739031
+          "usd": 0.76623,
+          "usd_24h_change": 6.996813222272697,
+          "usd_market_cap": 603879889.3568625
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.108053,
-          "usd_24h_change": -2.9170088108606573,
-          "usd_market_cap": 21621420.219892167
+          "usd": 0.108297,
+          "usd_24h_change": 0.1972706237417403,
+          "usd_market_cap": 21668228.43710989
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.61,
-          "usd_24h_change": -1.9900171575754553,
-          "usd_market_cap": 838385446.4370791
+          "usd": 1.68,
+          "usd_24h_change": 4.00586773348204,
+          "usd_market_cap": 869077174.066454
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.083893,
-          "usd_24h_change": -2.2404027148553354,
-          "usd_market_cap": 20363647.38041194
+          "usd": 0.091355,
+          "usd_24h_change": 8.89523383615812,
+          "usd_market_cap": 22184756.599629976
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 61.69,
-          "usd_24h_change": -4.386562663845519,
-          "usd_market_cap": 35719606730.47945
+          "usd": 64.76,
+          "usd_24h_change": 5.411710181646584,
+          "usd_market_cap": 37516158354.999
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.99945,
-          "usd_24h_change": 0.010525029228034832
+          "usd": 0.999537,
+          "usd_24h_change": 0.0007852951758190657
         },
         "USDC": {
-          "usd": 0.999641,
-          "usd_24h_change": 0.008638117716000052
+          "usd": 0.999758,
+          "usd_24h_change": 0.0106226849847384
         },
         "DAI": {
-          "usd": 0.999764,
-          "usd_24h_change": 0.009538009831243187
+          "usd": 0.999747,
+          "usd_24h_change": 0.027004787883938536
         }
       },
       "trending": [
         {
-          "id": "allora",
-          "symbol": "ALLO",
-          "name": "Allora",
-          "market_cap_rank": 275
+          "id": "pudgy-penguins",
+          "symbol": "PENGU",
+          "name": "Pudgy Penguins",
+          "market_cap_rank": 113
         },
         {
           "id": "zcash",
           "symbol": "ZEC",
           "name": "Zcash",
-          "market_cap_rank": 18
-        },
-        {
-          "id": "pudgy-penguins",
-          "symbol": "PENGU",
-          "name": "Pudgy Penguins",
-          "market_cap_rank": 114
+          "market_cap_rank": 15
         },
         {
           "id": "bitcoin",
@@ -144,27 +138,38 @@
           "id": "hyperliquid",
           "symbol": "HYPE",
           "name": "Hyperliquid",
-          "market_cap_rank": 10
+          "market_cap_rank": 11
+        },
+        {
+          "id": "humanity",
+          "symbol": "H",
+          "name": "Humanity",
+          "market_cap_rank": 55
         }
       ],
       "best_ai_token": {
         "id": "fetch-ai",
         "symbol": "FET",
-        "usd": 0.192614,
-        "usd_24h_change": -0.850174797429163,
-        "usd_market_cap": 435208030.1638962
+        "usd": 0.211351,
+        "usd_24h_change": 10.078104392315131,
+        "usd_market_cap": 477351259.87230045
       },
-      "btc_price": 60600,
-      "eth_price": 1552.38
+      "btc_price": 61794,
+      "eth_price": 1627.64
     },
     "fear_greed": {
       "current": {
         "value": 12,
         "label": "Extreme Fear",
-        "timestamp": "1780704000"
+        "timestamp": "1780790400"
       },
       "trend": "deteriorating",
       "history_7d": [
+        {
+          "value": 12,
+          "label": "Extreme Fear",
+          "date": "2026-06-07T00:00:00+00:00"
+        },
         {
           "value": 12,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 29,
           "label": "Fear",
           "date": "2026-06-01T00:00:00+00:00"
-        },
-        {
-          "value": 28,
-          "label": "Fear",
-          "date": "2026-05-31T00:00:00+00:00"
         }
       ]
     },
@@ -217,11 +217,12 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (12) -- contrarian buy signal"
+        "Extreme fear (12) -- contrarian buy signal",
+        "AI token FET up 10.1% -- momentum"
       ],
       "fear_greed": 12,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 4.8
+  "elapsed_seconds": 6.0
 }
