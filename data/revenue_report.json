@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T17:23:29.940366+00:00",
-  "cycle": 63,
+  "generated_at": "2026-06-09T16:32:04.485003+00:00",
+  "cycle": 64,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,85 +54,79 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 63487,
-          "usd_24h_change": 1.9596686506965233,
-          "usd_market_cap": 1272188820262.518
+          "usd": 60998,
+          "usd_24h_change": -4.2690853222593805,
+          "usd_market_cap": 1221741472481.119
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 1682.27,
-          "usd_24h_change": 2.8939369684215968,
-          "usd_market_cap": 202981874102.48816
+          "usd": 1629.19,
+          "usd_24h_change": -3.736814166745006,
+          "usd_market_cap": 196514351468.97147
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.212542,
-          "usd_24h_change": -0.6361145626727744,
-          "usd_market_cap": 479580751.3223771
+          "usd": 0.1996,
+          "usd_24h_change": -7.1143356026345845,
+          "usd_market_cap": 450782784.51277155
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.779672,
-          "usd_24h_change": 2.2431542624372756,
-          "usd_market_cap": 614186241.765738
+          "usd": 0.748825,
+          "usd_24h_change": -4.871960137246008,
+          "usd_market_cap": 590278767.4403276
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.10663,
-          "usd_24h_change": -2.450867284693017,
-          "usd_market_cap": 21261124.852403488
+          "usd": 0.105499,
+          "usd_24h_change": -2.2688548653971234,
+          "usd_market_cap": 21105872.59614151
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.65,
-          "usd_24h_change": -1.3000545870719056,
-          "usd_market_cap": 857166496.2624428
+          "usd": 1.59,
+          "usd_24h_change": -4.019037191497672,
+          "usd_market_cap": 822371408.5580887
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.093365,
-          "usd_24h_change": 0.06070073752692569,
-          "usd_market_cap": 22670573.184568178
+          "usd": 0.087271,
+          "usd_24h_change": -7.3598433923735636,
+          "usd_market_cap": 21188293.192415915
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 66.79,
-          "usd_24h_change": 2.0576560419671477,
-          "usd_market_cap": 38669079701.05357
+          "usd": 64.04,
+          "usd_24h_change": -5.133509437435305,
+          "usd_market_cap": 37100981823.24435
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.999451,
-          "usd_24h_change": -0.011470437762919044
+          "usd": 0.999193,
+          "usd_24h_change": -0.02546939928383234
         },
         "USDC": {
-          "usd": 0.999691,
-          "usd_24h_change": -0.007586561710816366
+          "usd": 0.99981,
+          "usd_24h_change": 0.008798503835694997
         },
         "DAI": {
-          "usd": 0.999633,
-          "usd_24h_change": -0.013033396062854617
+          "usd": 0.99962,
+          "usd_24h_change": -0.012880993841487309
         }
       },
       "trending": [
         {
-          "id": "pudgy-penguins",
-          "symbol": "PENGU",
-          "name": "Pudgy Penguins",
-          "market_cap_rank": 113
+          "id": "xmaquina",
+          "symbol": "DEUS",
+          "name": "XMAQUINA",
+          "market_cap_rank": 875
         },
         {
-          "id": "hyperliquid",
-          "symbol": "HYPE",
-          "name": "Hyperliquid",
-          "market_cap_rank": 10
-        },
-        {
-          "id": "zcash",
-          "symbol": "ZEC",
-          "name": "Zcash",
-          "market_cap_rank": 15
+          "id": "humanity",
+          "symbol": "H",
+          "name": "Humanity",
+          "market_cap_rank": 260
         },
         {
           "id": "bitcoin",
@@ -141,30 +135,41 @@
           "market_cap_rank": 1
         },
         {
-          "id": "audiera",
-          "symbol": "BEAT",
-          "name": "Audiera",
-          "market_cap_rank": 61
+          "id": "hyperliquid",
+          "symbol": "HYPE",
+          "name": "Hyperliquid",
+          "market_cap_rank": 10
+        },
+        {
+          "id": "morpho",
+          "symbol": "MORPHO",
+          "name": "Morpho",
+          "market_cap_rank": 62
         }
       ],
       "best_ai_token": {
-        "id": "singularitynet",
-        "symbol": "AGIX",
-        "usd": 0.093365,
-        "usd_24h_change": 0.06070073752692569,
-        "usd_market_cap": 22670573.184568178
+        "id": "ocean-protocol",
+        "symbol": "OCEAN",
+        "usd": 0.105499,
+        "usd_24h_change": -2.2688548653971234,
+        "usd_market_cap": 21105872.59614151
       },
-      "btc_price": 63487,
-      "eth_price": 1682.27
+      "btc_price": 60998,
+      "eth_price": 1629.19
     },
     "fear_greed": {
       "current": {
-        "value": 8,
+        "value": 10,
         "label": "Extreme Fear",
-        "timestamp": "1780876800"
+        "timestamp": "1780963200"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 10,
+          "label": "Extreme Fear",
+          "date": "2026-06-09T00:00:00+00:00"
+        },
         {
           "value": 8,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 11,
           "label": "Extreme Fear",
           "date": "2026-06-03T00:00:00+00:00"
-        },
-        {
-          "value": 23,
-          "label": "Extreme Fear",
-          "date": "2026-06-02T00:00:00+00:00"
         }
       ]
     },
@@ -217,11 +217,11 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (8) -- contrarian buy signal"
+        "Extreme fear (10) -- contrarian buy signal"
       ],
-      "fear_greed": 8,
+      "fear_greed": 10,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 4.9
+  "elapsed_seconds": 6.0
 }

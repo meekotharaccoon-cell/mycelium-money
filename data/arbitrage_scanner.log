@@ -9,10 +9,11 @@
 ============================================================
 ARBITRAGE SCANNER -- Results
 ============================================================
-  Total opportunities: 0
-    Stablecoin peg: 0
+  Total opportunities: 1
+    Stablecoin peg: 1
     Crypto spread:  0
     Kalshi mispricing: 0
-  No opportunities above threshold.
-  Elapsed: 6.3s
+  Best opportunity: stablecoin_peg
+    Buy FRAX at $0.9900, redeem at $1.00
+  Elapsed: 6.8s
 ============================================================
