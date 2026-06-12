@@ -9,11 +9,11 @@
 ============================================================
 ARBITRAGE SCANNER -- Results
 ============================================================
-  Total opportunities: 2
-    Stablecoin peg: 0
-    Crypto spread:  2
+  Total opportunities: 1
+    Stablecoin peg: 1
+    Crypto spread:  0
     Kalshi mispricing: 0
-  Best opportunity: crypto_spread
-    ethereum: buy on Azbit @ $1,668.82, sell on Hibt @ $1,679.99 = 0.67%
-  Elapsed: 6.4s
+  Best opportunity: stablecoin_peg
+    Buy FRAX at $0.9908, redeem at $1.00
+  Elapsed: 6.5s
 ============================================================
