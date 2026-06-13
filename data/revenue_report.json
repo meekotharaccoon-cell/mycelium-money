@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T16:45:08.748980+00:00",
-  "cycle": 67,
+  "generated_at": "2026-06-13T15:42:57.295788+00:00",
+  "cycle": 68,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,117 +54,122 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 63819,
-          "usd_24h_change": 1.9797972153659014,
-          "usd_market_cap": 1279051926362.8452
+          "usd": 64297,
+          "usd_24h_change": 0.6821041630095142,
+          "usd_market_cap": 1288468482712.0535
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 1667.35,
-          "usd_24h_change": 1.6669542207874353,
-          "usd_market_cap": 201187265530.56534
+          "usd": 1683.84,
+          "usd_24h_change": 0.809834792120175,
+          "usd_market_cap": 203188484922.28336
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.189359,
-          "usd_24h_change": 2.378958136233052,
-          "usd_market_cap": 428902860.31650347
+          "usd": 0.207415,
+          "usd_24h_change": 7.4006503117753395,
+          "usd_market_cap": 468280388.68422437
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.752711,
-          "usd_24h_change": -0.059755681032537686,
-          "usd_market_cap": 594288985.2161866
+          "usd": 0.796554,
+          "usd_24h_change": 5.316405332198882,
+          "usd_market_cap": 628397850.6341026
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.102514,
-          "usd_24h_change": -0.8496439650505674,
-          "usd_market_cap": 20515617.78451582
+          "usd": 0.102445,
+          "usd_24h_change": -0.3597755440853123,
+          "usd_market_cap": 20497936.47258624
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.67,
-          "usd_24h_change": 7.091324826493353,
-          "usd_market_cap": 865412432.461824
+          "usd": 1.8,
+          "usd_24h_change": 6.999063097393325,
+          "usd_market_cap": 930814708.9454412
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.084634,
-          "usd_24h_change": 2.531710979024287,
-          "usd_market_cap": 20587826.90306529
+          "usd": 0.089769,
+          "usd_24h_change": 5.465485761892909,
+          "usd_market_cap": 21757867.95713892
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 67.69,
-          "usd_24h_change": 3.3006645940351307,
-          "usd_market_cap": 39280276969.351524
+          "usd": 68.61,
+          "usd_24h_change": 1.1349623534786402,
+          "usd_market_cap": 39779260402.066124
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.999407,
-          "usd_24h_change": 0.05409813028761892
+          "usd": 0.999391,
+          "usd_24h_change": 0.011789114392954032
         },
         "USDC": {
-          "usd": 0.999804,
-          "usd_24h_change": 0.0052428332281534195
+          "usd": 0.999818,
+          "usd_24h_change": -0.005419635956151075
         },
         "DAI": {
-          "usd": 0.99977,
-          "usd_24h_change": -0.004579960516422723
+          "usd": 0.999735,
+          "usd_24h_change": -0.016195431355596847
         }
       },
       "trending": [
         {
-          "id": "spacex-republic-pre-ipo",
-          "symbol": "PRESPCX",
-          "name": "SpaceX (Republic Pre-IPO)",
-          "market_cap_rank": 942
+          "id": "bittensor",
+          "symbol": "TAO",
+          "name": "Bittensor",
+          "market_cap_rank": 40
         },
         {
-          "id": "plasma",
-          "symbol": "XPL",
-          "name": "Plasma",
-          "market_cap_rank": 165
+          "id": "backpack",
+          "symbol": "BP",
+          "name": "Backpack",
+          "market_cap_rank": 294
         },
         {
-          "id": "sosovalue",
-          "symbol": "SOSO",
-          "name": "SoSoValue",
-          "market_cap_rank": 250
+          "id": "siren-2",
+          "symbol": "SIREN",
+          "name": "Siren",
+          "market_cap_rank": 283
         },
         {
-          "id": "pudgy-penguins",
-          "symbol": "PENGU",
-          "name": "Pudgy Penguins",
-          "market_cap_rank": 115
+          "id": "venice-token",
+          "symbol": "VVV",
+          "name": "Venice Token",
+          "market_cap_rank": 83
         },
         {
-          "id": "velvet",
-          "symbol": "VELVET",
-          "name": "Velvet",
-          "market_cap_rank": 117
+          "id": "spacex-xstocks",
+          "symbol": "SPCXX",
+          "name": "SpaceX xStock",
+          "market_cap_rank": 728
         }
       ],
       "best_ai_token": {
-        "id": "render-token",
-        "symbol": "RNDR",
-        "usd": 1.67,
-        "usd_24h_change": 7.091324826493353,
-        "usd_market_cap": 865412432.461824
+        "id": "fetch-ai",
+        "symbol": "FET",
+        "usd": 0.207415,
+        "usd_24h_change": 7.4006503117753395,
+        "usd_market_cap": 468280388.68422437
       },
-      "btc_price": 63819,
-      "eth_price": 1667.35
+      "btc_price": 64297,
+      "eth_price": 1683.84
     },
     "fear_greed": {
       "current": {
-        "value": 12,
+        "value": 13,
         "label": "Extreme Fear",
-        "timestamp": "1781222400"
+        "timestamp": "1781308800"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 13,
+          "label": "Extreme Fear",
+          "date": "2026-06-13T00:00:00+00:00"
+        },
         {
           "value": 12,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 12,
           "label": "Extreme Fear",
           "date": "2026-06-07T00:00:00+00:00"
-        },
-        {
-          "value": 12,
-          "label": "Extreme Fear",
-          "date": "2026-06-06T00:00:00+00:00"
         }
       ]
     },
@@ -217,12 +217,12 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (12) -- contrarian buy signal",
-        "AI token RNDR up 7.1% -- momentum"
+        "Extreme fear (13) -- contrarian buy signal",
+        "AI token FET up 7.4% -- momentum"
       ],
-      "fear_greed": 12,
+      "fear_greed": 13,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 4.9
+  "elapsed_seconds": 5.5
 }
