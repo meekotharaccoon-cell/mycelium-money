@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T16:57:40.041708+00:00",
-  "cycle": 73,
+  "generated_at": "2026-06-19T16:32:00.864112+00:00",
+  "cycle": 74,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,73 +54,73 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 62619,
-          "usd_24h_change": -4.884552854287836,
-          "usd_market_cap": 1254612230372.4502
+          "usd": 63232,
+          "usd_24h_change": 1.1392715708922132,
+          "usd_market_cap": 1268638306798.1494
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 1684.85,
-          "usd_24h_change": -4.851674797610791,
-          "usd_market_cap": 203116379398.90704
+          "usd": 1705.38,
+          "usd_24h_change": 1.2783534770920713,
+          "usd_market_cap": 206103477042.41293
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.191499,
-          "usd_24h_change": -8.507605178941422,
-          "usd_market_cap": 431512172.53522897
+          "usd": 0.195839,
+          "usd_24h_change": 2.190562748123683,
+          "usd_market_cap": 442174912.6822336
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.767025,
-          "usd_24h_change": -5.9611592055515565,
-          "usd_market_cap": 606045243.9284432
+          "usd": 0.798114,
+          "usd_24h_change": 4.514150755746793,
+          "usd_market_cap": 630095199.9490532
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.10253,
-          "usd_24h_change": 1.2359327046809712,
-          "usd_market_cap": 20510211.899916712
+          "usd": 0.103548,
+          "usd_24h_change": 1.5368231874855687,
+          "usd_market_cap": 20724843.562172633
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.64,
-          "usd_24h_change": -5.715060482517432,
-          "usd_market_cap": 850813133.0045258
+          "usd": 1.72,
+          "usd_24h_change": 5.3052010844352395,
+          "usd_market_cap": 895687715.8240507
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.083417,
-          "usd_24h_change": -7.792520227278802,
-          "usd_market_cap": 20274120.114579838
+          "usd": 0.085135,
+          "usd_24h_change": 1.71156833706042,
+          "usd_market_cap": 20611413.316307597
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 68.9,
-          "usd_24h_change": -6.697646854767926,
-          "usd_market_cap": 39933553266.166374
+          "usd": 69.35,
+          "usd_24h_change": 1.0602317204673675,
+          "usd_market_cap": 40264912705.34825
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.997859,
-          "usd_24h_change": -0.13242253373965823
+          "usd": 0.999114,
+          "usd_24h_change": 0.115910142802496
         },
         "USDC": {
-          "usd": 0.99979,
-          "usd_24h_change": 0.009310244156478851
+          "usd": 0.999795,
+          "usd_24h_change": -0.006212788329784422
         },
         "DAI": {
-          "usd": 0.999699,
-          "usd_24h_change": 0.0029418433545759684
+          "usd": 0.999838,
+          "usd_24h_change": 0.011612088876639877
         }
       },
       "trending": [
         {
-          "id": "autonomi",
-          "symbol": "ANT",
-          "name": "Autonomi",
-          "market_cap_rank": 730
+          "id": "siren-2",
+          "symbol": "SIREN",
+          "name": "Siren",
+          "market_cap_rank": 305
         },
         {
           "id": "backpack",
@@ -129,42 +129,47 @@
           "market_cap_rank": 206
         },
         {
-          "id": "pudgy-penguins",
-          "symbol": "PENGU",
-          "name": "Pudgy Penguins",
-          "market_cap_rank": 117
-        },
-        {
           "id": "hyperliquid",
           "symbol": "HYPE",
           "name": "Hyperliquid",
           "market_cap_rank": 10
         },
         {
-          "id": "siren-2",
-          "symbol": "SIREN",
-          "name": "Siren",
-          "market_cap_rank": 611
+          "id": "pudgy-penguins",
+          "symbol": "PENGU",
+          "name": "Pudgy Penguins",
+          "market_cap_rank": 116
+        },
+        {
+          "id": "collector-crypt",
+          "symbol": "CARDS",
+          "name": "Collector Crypt",
+          "market_cap_rank": 320
         }
       ],
       "best_ai_token": {
-        "id": "ocean-protocol",
-        "symbol": "OCEAN",
-        "usd": 0.10253,
-        "usd_24h_change": 1.2359327046809712,
-        "usd_market_cap": 20510211.899916712
+        "id": "render-token",
+        "symbol": "RNDR",
+        "usd": 1.72,
+        "usd_24h_change": 5.3052010844352395,
+        "usd_market_cap": 895687715.8240507
       },
-      "btc_price": 62619,
-      "eth_price": 1684.85
+      "btc_price": 63232,
+      "eth_price": 1705.38
     },
     "fear_greed": {
       "current": {
-        "value": 15,
+        "value": 14,
         "label": "Extreme Fear",
-        "timestamp": "1781740800"
+        "timestamp": "1781827200"
       },
-      "trend": "improving",
+      "trend": "stable",
       "history_7d": [
+        {
+          "value": 14,
+          "label": "Extreme Fear",
+          "date": "2026-06-19T00:00:00+00:00"
+        },
         {
           "value": 15,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 13,
           "label": "Extreme Fear",
           "date": "2026-06-13T00:00:00+00:00"
-        },
-        {
-          "value": 12,
-          "label": "Extreme Fear",
-          "date": "2026-06-12T00:00:00+00:00"
         }
       ]
     },
@@ -217,11 +217,12 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (15) -- contrarian buy signal"
+        "Extreme fear (14) -- contrarian buy signal",
+        "AI token RNDR up 5.3% -- momentum"
       ],
-      "fear_greed": 15,
+      "fear_greed": 14,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 5.9
+  "elapsed_seconds": 5.0
 }
