@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T16:32:00.864112+00:00",
-  "cycle": 74,
+  "generated_at": "2026-06-20T15:45:58.781659+00:00",
+  "cycle": 75,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,117 +54,122 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 63232,
-          "usd_24h_change": 1.1392715708922132,
-          "usd_market_cap": 1268638306798.1494
+          "usd": 64058,
+          "usd_24h_change": 1.4098369490321454,
+          "usd_market_cap": 1283763865793.038
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 1705.38,
-          "usd_24h_change": 1.2783534770920713,
-          "usd_market_cap": 206103477042.41293
+          "usd": 1738.04,
+          "usd_24h_change": 1.850073957897395,
+          "usd_market_cap": 209735749231.88425
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.195839,
-          "usd_24h_change": 2.190562748123683,
-          "usd_market_cap": 442174912.6822336
+          "usd": 0.189805,
+          "usd_24h_change": -3.0517856427316903,
+          "usd_market_cap": 428845143.2030377
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.798114,
-          "usd_24h_change": 4.514150755746793,
-          "usd_market_cap": 630095199.9490532
+          "usd": 0.791151,
+          "usd_24h_change": -0.551079831359803,
+          "usd_market_cap": 625258906.3893224
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.103548,
-          "usd_24h_change": 1.5368231874855687,
-          "usd_market_cap": 20724843.562172633
+          "usd": 0.102591,
+          "usd_24h_change": -1.1564008943727717,
+          "usd_market_cap": 20504059.369758137
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.72,
-          "usd_24h_change": 5.3052010844352395,
-          "usd_market_cap": 895687715.8240507
+          "usd": 1.74,
+          "usd_24h_change": 0.3489745593743289,
+          "usd_market_cap": 901079439.223311
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.085135,
-          "usd_24h_change": 1.71156833706042,
-          "usd_market_cap": 20611413.316307597
+          "usd": 0.081455,
+          "usd_24h_change": -3.936694532651877,
+          "usd_market_cap": 19814430.696927674
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 69.35,
-          "usd_24h_change": 1.0602317204673675,
-          "usd_market_cap": 40264912705.34825
+          "usd": 71.83,
+          "usd_24h_change": 3.6528696559703158,
+          "usd_market_cap": 41709531626.1
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.999114,
-          "usd_24h_change": 0.115910142802496
+          "usd": 0.998995,
+          "usd_24h_change": -0.009019301145508498
         },
         "USDC": {
           "usd": 0.999795,
-          "usd_24h_change": -0.006212788329784422
+          "usd_24h_change": -0.002725915781404779
         },
         "DAI": {
-          "usd": 0.999838,
-          "usd_24h_change": 0.011612088876639877
+          "usd": 0.999639,
+          "usd_24h_change": -0.003043781503327531
         }
       },
       "trending": [
         {
-          "id": "siren-2",
-          "symbol": "SIREN",
-          "name": "Siren",
-          "market_cap_rank": 305
-        },
-        {
-          "id": "backpack",
-          "symbol": "BP",
-          "name": "Backpack",
-          "market_cap_rank": 206
-        },
-        {
-          "id": "hyperliquid",
-          "symbol": "HYPE",
-          "name": "Hyperliquid",
-          "market_cap_rank": 10
+          "id": "re",
+          "symbol": "RE",
+          "name": "RE",
+          "market_cap_rank": 196
         },
         {
           "id": "pudgy-penguins",
           "symbol": "PENGU",
           "name": "Pudgy Penguins",
-          "market_cap_rank": 116
+          "market_cap_rank": 115
         },
         {
-          "id": "collector-crypt",
-          "symbol": "CARDS",
-          "name": "Collector Crypt",
-          "market_cap_rank": 320
+          "id": "siren-2",
+          "symbol": "SIREN",
+          "name": "Siren",
+          "market_cap_rank": 299
+        },
+        {
+          "id": "bitway",
+          "symbol": "BTW",
+          "name": "Bitway",
+          "market_cap_rank": 130
+        },
+        {
+          "id": "backpack",
+          "symbol": "BP",
+          "name": "Backpack",
+          "market_cap_rank": 204
         }
       ],
       "best_ai_token": {
         "id": "render-token",
         "symbol": "RNDR",
-        "usd": 1.72,
-        "usd_24h_change": 5.3052010844352395,
-        "usd_market_cap": 895687715.8240507
+        "usd": 1.74,
+        "usd_24h_change": 0.3489745593743289,
+        "usd_market_cap": 901079439.223311
       },
-      "btc_price": 63232,
-      "eth_price": 1705.38
+      "btc_price": 64058,
+      "eth_price": 1738.04
     },
     "fear_greed": {
       "current": {
-        "value": 14,
+        "value": 23,
         "label": "Extreme Fear",
-        "timestamp": "1781827200"
+        "timestamp": "1781913600"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 23,
+          "label": "Extreme Fear",
+          "date": "2026-06-20T00:00:00+00:00"
+        },
         {
           "value": 14,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 18,
           "label": "Extreme Fear",
           "date": "2026-06-14T00:00:00+00:00"
-        },
-        {
-          "value": 13,
-          "label": "Extreme Fear",
-          "date": "2026-06-13T00:00:00+00:00"
         }
       ]
     },
@@ -217,12 +217,11 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (14) -- contrarian buy signal",
-        "AI token RNDR up 5.3% -- momentum"
+        "Extreme fear (23) -- contrarian buy signal"
       ],
-      "fear_greed": 14,
+      "fear_greed": 23,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 5.0
+  "elapsed_seconds": 5.9
 }
