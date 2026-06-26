@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T16:27:23.395480+00:00",
+  "generated_at": "2026-06-26T16:19:34.697451+00:00",
   "status": "ok",
   "scanners": {
     "stablecoin_pegs": {
@@ -7,102 +7,102 @@
         {
           "symbol": "USDT",
           "coin_id": "tether",
-          "price": 0.998645,
-          "deviation_from_peg": 0.001355,
-          "deviation_pct": 0.1355,
+          "price": 0.998721,
+          "deviation_from_peg": 0.001279,
+          "deviation_pct": 0.1279,
           "direction": "below",
-          "change_24h": 0.0036649815499228437,
-          "volume_24h": 74002483756.41284,
+          "change_24h": 0.011349328135970761,
+          "volume_24h": 63527188710.6411,
           "is_opportunity": false
         },
         {
           "symbol": "USDC",
           "coin_id": "usd-coin",
-          "price": 0.999945,
-          "deviation_from_peg": 5.5e-05,
-          "deviation_pct": 0.0055,
+          "price": 0.99975,
+          "deviation_from_peg": 0.00025,
+          "deviation_pct": 0.025,
           "direction": "below",
-          "change_24h": 0.014502317952763164,
-          "volume_24h": 18847217832.17893,
+          "change_24h": -0.03317306646912814,
+          "volume_24h": 17181414407.88655,
           "is_opportunity": false
         },
         {
           "symbol": "DAI",
           "coin_id": "dai",
-          "price": 0.9996,
-          "deviation_from_peg": 0.0004,
-          "deviation_pct": 0.04,
+          "price": 0.999744,
+          "deviation_from_peg": 0.000256,
+          "deviation_pct": 0.0256,
           "direction": "below",
-          "change_24h": -0.016763780053759877,
-          "volume_24h": 251056334.97455606,
+          "change_24h": 0.016539131979698158,
+          "volume_24h": 254125485.51462343,
           "is_opportunity": false
         },
         {
           "symbol": "TUSD",
           "coin_id": "true-usd",
-          "price": 0.996968,
-          "deviation_from_peg": 0.003032,
-          "deviation_pct": 0.3032,
+          "price": 0.997243,
+          "deviation_from_peg": 0.002757,
+          "deviation_pct": 0.2757,
           "direction": "below",
-          "change_24h": -0.15740902457224573,
-          "volume_24h": 30440297.37467257,
+          "change_24h": -0.06909212351680265,
+          "volume_24h": 29467791.013739124,
           "is_opportunity": true,
-          "action": "Buy TUSD at $0.9970, redeem at $1.00",
-          "profit_per_unit": 0.003032
+          "action": "Buy TUSD at $0.9972, redeem at $1.00",
+          "profit_per_unit": 0.002757
         },
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.989918,
-          "deviation_from_peg": 0.010082,
-          "deviation_pct": 1.0082,
+          "price": 0.982582,
+          "deviation_from_peg": 0.017418,
+          "deviation_pct": 1.7418,
           "direction": "below",
-          "change_24h": 0.00032250138682383067,
-          "volume_24h": 3613392.165811036,
+          "change_24h": -0.7407367682297551,
+          "volume_24h": 3723502.2874937598,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9899, redeem at $1.00",
-          "profit_per_unit": 0.010082
+          "action": "Buy FRAX at $0.9826, redeem at $1.00",
+          "profit_per_unit": 0.017418
         },
         {
           "symbol": "USDT/USDC",
           "coin_id": "cross-stable",
           "price": null,
-          "deviation_from_peg": 0.0013,
-          "deviation_pct": 0.13,
+          "deviation_from_peg": 0.001029,
+          "deviation_pct": 0.1029,
           "direction": "spread",
           "change_24h": 0,
           "volume_24h": 0,
           "is_opportunity": false,
-          "action": "Buy USDT -> swap to USDC (spread: $0.0013)",
-          "profit_per_unit": 0.0013
+          "action": "Buy USDT -> swap to USDC (spread: $0.0010)",
+          "profit_per_unit": 0.001029
         }
       ],
       "opportunities": [
         {
           "symbol": "TUSD",
           "coin_id": "true-usd",
-          "price": 0.996968,
-          "deviation_from_peg": 0.003032,
-          "deviation_pct": 0.3032,
+          "price": 0.997243,
+          "deviation_from_peg": 0.002757,
+          "deviation_pct": 0.2757,
           "direction": "below",
-          "change_24h": -0.15740902457224573,
-          "volume_24h": 30440297.37467257,
+          "change_24h": -0.06909212351680265,
+          "volume_24h": 29467791.013739124,
           "is_opportunity": true,
-          "action": "Buy TUSD at $0.9970, redeem at $1.00",
-          "profit_per_unit": 0.003032
+          "action": "Buy TUSD at $0.9972, redeem at $1.00",
+          "profit_per_unit": 0.002757
         },
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.989918,
-          "deviation_from_peg": 0.010082,
-          "deviation_pct": 1.0082,
+          "price": 0.982582,
+          "deviation_from_peg": 0.017418,
+          "deviation_pct": 1.7418,
           "direction": "below",
-          "change_24h": 0.00032250138682383067,
-          "volume_24h": 3613392.165811036,
+          "change_24h": -0.7407367682297551,
+          "volume_24h": 3723502.2874937598,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9899, redeem at $1.00",
-          "profit_per_unit": 0.010082
+          "action": "Buy FRAX at $0.9826, redeem at $1.00",
+          "profit_per_unit": 0.017418
         }
       ],
       "count": 2
@@ -128,18 +128,18 @@
       "detail": {
         "symbol": "TUSD",
         "coin_id": "true-usd",
-        "price": 0.996968,
-        "deviation_from_peg": 0.003032,
-        "deviation_pct": 0.3032,
+        "price": 0.997243,
+        "deviation_from_peg": 0.002757,
+        "deviation_pct": 0.2757,
         "direction": "below",
-        "change_24h": -0.15740902457224573,
-        "volume_24h": 30440297.37467257,
+        "change_24h": -0.06909212351680265,
+        "volume_24h": 29467791.013739124,
         "is_opportunity": true,
-        "action": "Buy TUSD at $0.9970, redeem at $1.00",
-        "profit_per_unit": 0.003032
+        "action": "Buy TUSD at $0.9972, redeem at $1.00",
+        "profit_per_unit": 0.002757
       }
     },
-    "scan_time": "2026-06-25T16:27:29.466505+00:00"
+    "scan_time": "2026-06-26T16:19:41.148243+00:00"
   },
-  "elapsed_seconds": 6.1
+  "elapsed_seconds": 6.5
 }
