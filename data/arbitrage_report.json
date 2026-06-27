@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T16:19:34.697451+00:00",
+  "generated_at": "2026-06-27T15:17:00.335093+00:00",
   "status": "ok",
   "scanners": {
     "stablecoin_pegs": {
@@ -7,109 +7,125 @@
         {
           "symbol": "USDT",
           "coin_id": "tether",
-          "price": 0.998721,
-          "deviation_from_peg": 0.001279,
-          "deviation_pct": 0.1279,
+          "price": 0.998427,
+          "deviation_from_peg": 0.001573,
+          "deviation_pct": 0.1573,
           "direction": "below",
-          "change_24h": 0.011349328135970761,
-          "volume_24h": 63527188710.6411,
+          "change_24h": -0.024866076030006987,
+          "volume_24h": 33650914620.13448,
           "is_opportunity": false
         },
         {
           "symbol": "USDC",
           "coin_id": "usd-coin",
-          "price": 0.99975,
-          "deviation_from_peg": 0.00025,
-          "deviation_pct": 0.025,
+          "price": 0.999713,
+          "deviation_from_peg": 0.000287,
+          "deviation_pct": 0.0287,
           "direction": "below",
-          "change_24h": -0.03317306646912814,
-          "volume_24h": 17181414407.88655,
+          "change_24h": -0.008807846414940397,
+          "volume_24h": 8835314880.473984,
           "is_opportunity": false
         },
         {
           "symbol": "DAI",
           "coin_id": "dai",
-          "price": 0.999744,
-          "deviation_from_peg": 0.000256,
-          "deviation_pct": 0.0256,
+          "price": 0.999706,
+          "deviation_from_peg": 0.000294,
+          "deviation_pct": 0.0294,
           "direction": "below",
-          "change_24h": 0.016539131979698158,
-          "volume_24h": 254125485.51462343,
+          "change_24h": -0.0048201511040277,
+          "volume_24h": 125719303.11867109,
           "is_opportunity": false
         },
         {
           "symbol": "TUSD",
           "coin_id": "true-usd",
-          "price": 0.997243,
-          "deviation_from_peg": 0.002757,
-          "deviation_pct": 0.2757,
+          "price": 0.997527,
+          "deviation_from_peg": 0.002473,
+          "deviation_pct": 0.2473,
           "direction": "below",
-          "change_24h": -0.06909212351680265,
-          "volume_24h": 29467791.013739124,
+          "change_24h": -0.05771341375035808,
+          "volume_24h": 11139491.042395711,
           "is_opportunity": true,
-          "action": "Buy TUSD at $0.9972, redeem at $1.00",
-          "profit_per_unit": 0.002757
+          "action": "Buy TUSD at $0.9975, redeem at $1.00",
+          "profit_per_unit": 0.002473
         },
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.982582,
-          "deviation_from_peg": 0.017418,
-          "deviation_pct": 1.7418,
+          "price": 0.988278,
+          "deviation_from_peg": 0.011722,
+          "deviation_pct": 1.1722,
           "direction": "below",
-          "change_24h": -0.7407367682297551,
-          "volume_24h": 3723502.2874937598,
+          "change_24h": 0.5628712056821659,
+          "volume_24h": 418615.5031671601,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9826, redeem at $1.00",
-          "profit_per_unit": 0.017418
+          "action": "Buy FRAX at $0.9883, redeem at $1.00",
+          "profit_per_unit": 0.011722
         },
         {
           "symbol": "USDT/USDC",
           "coin_id": "cross-stable",
           "price": null,
-          "deviation_from_peg": 0.001029,
-          "deviation_pct": 0.1029,
+          "deviation_from_peg": 0.001286,
+          "deviation_pct": 0.1286,
           "direction": "spread",
           "change_24h": 0,
           "volume_24h": 0,
           "is_opportunity": false,
-          "action": "Buy USDT -> swap to USDC (spread: $0.0010)",
-          "profit_per_unit": 0.001029
+          "action": "Buy USDT -> swap to USDC (spread: $0.0013)",
+          "profit_per_unit": 0.001286
         }
       ],
       "opportunities": [
         {
           "symbol": "TUSD",
           "coin_id": "true-usd",
-          "price": 0.997243,
-          "deviation_from_peg": 0.002757,
-          "deviation_pct": 0.2757,
+          "price": 0.997527,
+          "deviation_from_peg": 0.002473,
+          "deviation_pct": 0.2473,
           "direction": "below",
-          "change_24h": -0.06909212351680265,
-          "volume_24h": 29467791.013739124,
+          "change_24h": -0.05771341375035808,
+          "volume_24h": 11139491.042395711,
           "is_opportunity": true,
-          "action": "Buy TUSD at $0.9972, redeem at $1.00",
-          "profit_per_unit": 0.002757
+          "action": "Buy TUSD at $0.9975, redeem at $1.00",
+          "profit_per_unit": 0.002473
         },
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.982582,
-          "deviation_from_peg": 0.017418,
-          "deviation_pct": 1.7418,
+          "price": 0.988278,
+          "deviation_from_peg": 0.011722,
+          "deviation_pct": 1.1722,
           "direction": "below",
-          "change_24h": -0.7407367682297551,
-          "volume_24h": 3723502.2874937598,
+          "change_24h": 0.5628712056821659,
+          "volume_24h": 418615.5031671601,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9826, redeem at $1.00",
-          "profit_per_unit": 0.017418
+          "action": "Buy FRAX at $0.9883, redeem at $1.00",
+          "profit_per_unit": 0.011722
         }
       ],
       "count": 2
     },
     "crypto_spreads": {
-      "opportunities": [],
-      "count": 0,
+      "opportunities": [
+        {
+          "coin": "solana",
+          "buy_exchange": "Bullish",
+          "buy_price": 72.7556,
+          "buy_pair": "SOL/USD",
+          "buy_volume_usd": 1759348,
+          "sell_exchange": "Bitbaby",
+          "sell_price": 73.16,
+          "sell_pair": "SOL/USDT",
+          "sell_volume_usd": 24361648,
+          "spread_pct": 0.556,
+          "spread_usd": 0.4044,
+          "exchanges_checked": 81,
+          "timestamp": "2026-06-27T15:17:02.246451+00:00"
+        }
+      ],
+      "count": 1,
       "coins_checked": 5
     },
     "kalshi_mispricings": {
@@ -119,27 +135,29 @@
     }
   },
   "summary": {
-    "total_opportunities": 2,
+    "total_opportunities": 3,
     "stablecoin_peg_opps": 2,
-    "crypto_spread_opps": 0,
+    "crypto_spread_opps": 1,
     "kalshi_mispricing_opps": 0,
     "best_opportunity": {
-      "type": "stablecoin_peg",
+      "type": "crypto_spread",
       "detail": {
-        "symbol": "TUSD",
-        "coin_id": "true-usd",
-        "price": 0.997243,
-        "deviation_from_peg": 0.002757,
-        "deviation_pct": 0.2757,
-        "direction": "below",
-        "change_24h": -0.06909212351680265,
-        "volume_24h": 29467791.013739124,
-        "is_opportunity": true,
-        "action": "Buy TUSD at $0.9972, redeem at $1.00",
-        "profit_per_unit": 0.002757
+        "coin": "solana",
+        "buy_exchange": "Bullish",
+        "buy_price": 72.7556,
+        "buy_pair": "SOL/USD",
+        "buy_volume_usd": 1759348,
+        "sell_exchange": "Bitbaby",
+        "sell_price": 73.16,
+        "sell_pair": "SOL/USDT",
+        "sell_volume_usd": 24361648,
+        "spread_pct": 0.556,
+        "spread_usd": 0.4044,
+        "exchanges_checked": 81,
+        "timestamp": "2026-06-27T15:17:02.246451+00:00"
       }
     },
-    "scan_time": "2026-06-26T16:19:41.148243+00:00"
+    "scan_time": "2026-06-27T15:17:06.712838+00:00"
   },
-  "elapsed_seconds": 6.5
+  "elapsed_seconds": 6.4
 }
