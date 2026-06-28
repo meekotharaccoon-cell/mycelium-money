@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T15:16:55.579426+00:00",
-  "cycle": 82,
+  "generated_at": "2026-06-28T15:19:07.634719+00:00",
+  "cycle": 83,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -54,117 +54,122 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 60746,
-          "usd_24h_change": 1.504461533776045,
-          "usd_market_cap": 1218295298920.3948
+          "usd": 59969,
+          "usd_24h_change": -1.1781453985757435,
+          "usd_market_cap": 1202257563620.6855
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 1603.76,
-          "usd_24h_change": 2.2702936429698073,
-          "usd_market_cap": 193648770338.16177
+          "usd": 1579.9,
+          "usd_24h_change": -1.343530996454388,
+          "usd_market_cap": 190633854565.06317
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.179524,
-          "usd_24h_change": 5.503897751111881,
-          "usd_market_cap": 405824816.7865216
+          "usd": 0.172149,
+          "usd_24h_change": -4.144921495100912,
+          "usd_market_cap": 388869279.085319
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.748458,
-          "usd_24h_change": 3.1442569734267853,
-          "usd_market_cap": 592812656.068503
+          "usd": 0.72438,
+          "usd_24h_change": -3.1940526337828845,
+          "usd_market_cap": 574308710.4837997
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.119736,
-          "usd_24h_change": 8.253636295559057,
-          "usd_market_cap": 28845799.531797025
+          "usd": 0.114345,
+          "usd_24h_change": -4.171281306939858,
+          "usd_market_cap": 27551943.390242305
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.6,
-          "usd_24h_change": 5.447424042661217,
-          "usd_market_cap": 830702668.7397213
+          "usd": 1.54,
+          "usd_24h_change": -3.482367147061723,
+          "usd_market_cap": 801211401.0440407
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.078216,
-          "usd_24h_change": 7.242729828233266,
-          "usd_market_cap": 18980424.998398766
+          "usd": 0.074737,
+          "usd_24h_change": -4.577597613179995,
+          "usd_market_cap": 18116263.418731067
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 72.88,
-          "usd_24h_change": 2.8210486227069187,
-          "usd_market_cap": 42320700593.82619
+          "usd": 71.62,
+          "usd_24h_change": -1.7512862950359456,
+          "usd_market_cap": 41586142910.18533
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.998427,
-          "usd_24h_change": -0.024866076030006987
+          "usd": 0.998559,
+          "usd_24h_change": 0.005340587553381031
         },
         "USDC": {
-          "usd": 0.999713,
-          "usd_24h_change": -0.008795287355560216
+          "usd": 0.999647,
+          "usd_24h_change": -0.00594620545702635
         },
         "DAI": {
-          "usd": 0.999706,
-          "usd_24h_change": -0.0048201511040277
+          "usd": 0.999608,
+          "usd_24h_change": 0.009796107256203189
         }
       },
       "trending": [
         {
-          "id": "pudgy-penguins",
-          "symbol": "PENGU",
-          "name": "Pudgy Penguins",
-          "market_cap_rank": 115
+          "id": "the-black-bull",
+          "symbol": "ANSEM",
+          "name": "The Black Bull",
+          "market_cap_rank": 652
+        },
+        {
+          "id": "manta-network",
+          "symbol": "MANTA",
+          "name": "Manta Network",
+          "market_cap_rank": 338
+        },
+        {
+          "id": "xmaquina",
+          "symbol": "DEUS",
+          "name": "XMAQUINA",
+          "market_cap_rank": 931
+        },
+        {
+          "id": "sonic-3",
+          "symbol": "S",
+          "name": "Sonic",
+          "market_cap_rank": 261
         },
         {
           "id": "velvet",
           "symbol": "VELVET",
           "name": "Velvet",
-          "market_cap_rank": 96
-        },
-        {
-          "id": "grass",
-          "symbol": "GRASS",
-          "name": "Grass",
-          "market_cap_rank": 130
-        },
-        {
-          "id": "solstice",
-          "symbol": "SLX",
-          "name": "Solstice",
-          "market_cap_rank": 229
-        },
-        {
-          "id": "lab",
-          "symbol": "LAB",
-          "name": "LAB",
-          "market_cap_rank": 22
+          "market_cap_rank": 81
         }
       ],
       "best_ai_token": {
-        "id": "ocean-protocol",
-        "symbol": "OCEAN",
-        "usd": 0.119736,
-        "usd_24h_change": 8.253636295559057,
-        "usd_market_cap": 28845799.531797025
+        "id": "render-token",
+        "symbol": "RNDR",
+        "usd": 1.54,
+        "usd_24h_change": -3.482367147061723,
+        "usd_market_cap": 801211401.0440407
       },
-      "btc_price": 60746,
-      "eth_price": 1603.76
+      "btc_price": 59969,
+      "eth_price": 1579.9
     },
     "fear_greed": {
       "current": {
-        "value": 15,
+        "value": 18,
         "label": "Extreme Fear",
-        "timestamp": "1782518400"
+        "timestamp": "1782604800"
       },
-      "trend": "deteriorating",
+      "trend": "stable",
       "history_7d": [
+        {
+          "value": 18,
+          "label": "Extreme Fear",
+          "date": "2026-06-28T00:00:00+00:00"
+        },
         {
           "value": 15,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 20,
           "label": "Extreme Fear",
           "date": "2026-06-22T00:00:00+00:00"
-        },
-        {
-          "value": 23,
-          "label": "Extreme Fear",
-          "date": "2026-06-21T00:00:00+00:00"
         }
       ]
     },
@@ -217,12 +217,11 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (15) -- contrarian buy signal",
-        "AI token OCEAN up 8.3% -- momentum"
+        "Extreme fear (18) -- contrarian buy signal"
       ],
-      "fear_greed": 15,
+      "fear_greed": 18,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 4.7
+  "elapsed_seconds": 4.5
 }
