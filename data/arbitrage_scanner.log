@@ -9,11 +9,11 @@
 ============================================================
 ARBITRAGE SCANNER -- Results
 ============================================================
-  Total opportunities: 2
+  Total opportunities: 3
     Stablecoin peg: 2
-    Crypto spread:  0
+    Crypto spread:  1
     Kalshi mispricing: 0
-  Best opportunity: stablecoin_peg
-    Buy TUSD at $0.9972, redeem at $1.00
-  Elapsed: 5.9s
+  Best opportunity: crypto_spread
+    bitcoin: buy on Dexalot @ $59,540.80, sell on Poloniex @ $59,986.00 = 0.75%
+  Elapsed: 6.2s
 ============================================================
