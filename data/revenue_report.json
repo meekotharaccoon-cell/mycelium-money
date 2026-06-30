@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T16:53:16.209869+00:00",
-  "cycle": 84,
+  "generated_at": "2026-06-30T16:23:22.451310+00:00",
+  "cycle": 85,
   "status": "ok",
   "sections": {
     "kalshi": {
@@ -12,6 +12,14 @@
           "title": "Will Elon Musk visit Mars in his lifetime?",
           "category": "World",
           "market_count": 1,
+          "total_volume": 0,
+          "close_time": ""
+        },
+        {
+          "event_ticker": "KXNEXTNATOSECGEN-99",
+          "title": "Who will be the next Secretary General of NATO?",
+          "category": "Elections",
+          "market_count": 8,
           "total_volume": 0,
           "close_time": ""
         },
@@ -38,14 +46,6 @@
           "market_count": 1,
           "total_volume": 0,
           "close_time": ""
-        },
-        {
-          "event_ticker": "KXERUPTSUPER-0",
-          "title": "Will a supervolcano erupt before 2050?",
-          "category": "Climate and Weather",
-          "market_count": 1,
-          "total_volume": 0,
-          "close_time": ""
         }
       ],
       "series_scanned": 11
@@ -54,65 +54,65 @@
       "prices": {
         "bitcoin": {
           "symbol": "BTC",
-          "usd": 59780,
-          "usd_24h_change": 0.322714636681576,
-          "usd_market_cap": 1198587481852.565
+          "usd": 58271,
+          "usd_24h_change": -2.2204784276719027,
+          "usd_market_cap": 1168354736486.134
         },
         "ethereum": {
           "symbol": "ETH",
-          "usd": 1582.26,
-          "usd_24h_change": 0.8099035424761388,
-          "usd_market_cap": 190952546931.72733
+          "usd": 1563.46,
+          "usd_24h_change": -0.727640461174463,
+          "usd_market_cap": 188683657688.7237
         },
         "fetch-ai": {
           "symbol": "FET",
-          "usd": 0.175263,
-          "usd_24h_change": 1.759676468390529,
-          "usd_market_cap": 395656184.637182
+          "usd": 0.171342,
+          "usd_24h_change": -2.141350615199303,
+          "usd_market_cap": 386523567.56170183
         },
         "filecoin": {
           "symbol": "FIL",
-          "usd": 0.726595,
-          "usd_24h_change": 1.1203845004929485,
-          "usd_market_cap": 576176584.890627
+          "usd": 0.714392,
+          "usd_24h_change": -1.1222240340010796,
+          "usd_market_cap": 566872757.29056
         },
         "ocean-protocol": {
           "symbol": "OCEAN",
-          "usd": 0.112366,
-          "usd_24h_change": -1.219051637286001,
-          "usd_market_cap": 27073186.564389315
+          "usd": 0.112495,
+          "usd_24h_change": 0.0959133262309731,
+          "usd_market_cap": 27111255.88823072
         },
         "render-token": {
           "symbol": "RNDR",
-          "usd": 1.57,
-          "usd_24h_change": 2.6475769745671562,
-          "usd_market_cap": 816233266.6307516
+          "usd": 1.51,
+          "usd_24h_change": -3.5734047957982176,
+          "usd_market_cap": 781040246.6384515
         },
         "singularitynet": {
           "symbol": "AGIX",
-          "usd": 0.076837,
-          "usd_24h_change": 3.6235174538503667,
-          "usd_market_cap": 18623726.833003353
+          "usd": 0.074594,
+          "usd_24h_change": -3.2557800747178995,
+          "usd_market_cap": 18079582.975395266
         },
         "solana": {
           "symbol": "SOL",
-          "usd": 73.87,
-          "usd_24h_change": 3.671878889536738,
-          "usd_market_cap": 42899912136.65103
+          "usd": 72.85,
+          "usd_24h_change": -0.644858646261196,
+          "usd_market_cap": 42329681875.16301
         }
       },
       "stablecoins": {
         "USDT": {
-          "usd": 0.99842,
-          "usd_24h_change": -0.02430317835647161
+          "usd": 0.998289,
+          "usd_24h_change": -0.010444589311947364
         },
         "USDC": {
-          "usd": 0.999717,
-          "usd_24h_change": -0.00574853909274032
+          "usd": 0.999625,
+          "usd_24h_change": -0.014203642670002705
         },
         "DAI": {
-          "usd": 0.999488,
-          "usd_24h_change": -0.03264109288906447
+          "usd": 0.999674,
+          "usd_24h_change": -0.0146153214560177
         }
       },
       "trending": [
@@ -120,7 +120,19 @@
           "id": "the-black-bull",
           "symbol": "ANSEM",
           "name": "The Black Bull",
-          "market_cap_rank": 486
+          "market_cap_rank": 364
+        },
+        {
+          "id": "synapse-2",
+          "symbol": "SYN",
+          "name": "Synapse",
+          "market_cap_rank": 213
+        },
+        {
+          "id": "lighter",
+          "symbol": "LIT",
+          "name": "Lighter",
+          "market_cap_rank": 104
         },
         {
           "id": "bitcoin",
@@ -129,42 +141,35 @@
           "market_cap_rank": 1
         },
         {
-          "id": "pudgy-penguins",
-          "symbol": "PENGU",
-          "name": "Pudgy Penguins",
-          "market_cap_rank": 118
-        },
-        {
-          "id": "tac",
-          "symbol": "TAC",
-          "name": "TAC",
-          "market_cap_rank": 140
-        },
-        {
-          "id": "solana",
-          "symbol": "SOL",
-          "name": "Solana",
-          "market_cap_rank": 7
+          "id": "pyth-network",
+          "symbol": "PYTH",
+          "name": "Pyth Network",
+          "market_cap_rank": 127
         }
       ],
       "best_ai_token": {
-        "id": "singularitynet",
-        "symbol": "AGIX",
-        "usd": 0.076837,
-        "usd_24h_change": 3.6235174538503667,
-        "usd_market_cap": 18623726.833003353
+        "id": "ocean-protocol",
+        "symbol": "OCEAN",
+        "usd": 0.112495,
+        "usd_24h_change": 0.0959133262309731,
+        "usd_market_cap": 27111255.88823072
       },
-      "btc_price": 59780,
-      "eth_price": 1582.26
+      "btc_price": 58271,
+      "eth_price": 1563.46
     },
     "fear_greed": {
       "current": {
-        "value": 12,
+        "value": 15,
         "label": "Extreme Fear",
-        "timestamp": "1782691200"
+        "timestamp": "1782777600"
       },
       "trend": "stable",
       "history_7d": [
+        {
+          "value": 15,
+          "label": "Extreme Fear",
+          "date": "2026-06-30T00:00:00+00:00"
+        },
         {
           "value": 12,
           "label": "Extreme Fear",
@@ -194,11 +199,6 @@
           "value": 17,
           "label": "Extreme Fear",
           "date": "2026-06-24T00:00:00+00:00"
-        },
-        {
-          "value": 23,
-          "label": "Extreme Fear",
-          "date": "2026-06-23T00:00:00+00:00"
         }
       ]
     },
@@ -217,11 +217,11 @@
     "signal": {
       "action": "buy_dip",
       "reasoning": [
-        "Extreme fear (12) -- contrarian buy signal"
+        "Extreme fear (15) -- contrarian buy signal"
       ],
-      "fear_greed": 12,
+      "fear_greed": 15,
       "kalshi_opp_count": 0
     }
   },
-  "elapsed_seconds": 5.6
+  "elapsed_seconds": 4.7
 }
