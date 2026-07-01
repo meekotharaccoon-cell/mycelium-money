@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T16:23:27.258492+00:00",
+  "generated_at": "2026-07-01T16:27:30.683026+00:00",
   "status": "ok",
   "scanners": {
     "stablecoin_pegs": {
@@ -7,102 +7,89 @@
         {
           "symbol": "USDT",
           "coin_id": "tether",
-          "price": 0.998292,
-          "deviation_from_peg": 0.001708,
-          "deviation_pct": 0.1708,
+          "price": 0.999017,
+          "deviation_from_peg": 0.000983,
+          "deviation_pct": 0.0983,
           "direction": "below",
-          "change_24h": -0.010212863104014413,
-          "volume_24h": 51606537507.56516,
+          "change_24h": 0.07097047059960887,
+          "volume_24h": 55077310973.77862,
           "is_opportunity": false
         },
         {
           "symbol": "USDC",
           "coin_id": "usd-coin",
-          "price": 0.999598,
-          "deviation_from_peg": 0.000402,
-          "deviation_pct": 0.0402,
+          "price": 0.999706,
+          "deviation_from_peg": 0.000294,
+          "deviation_pct": 0.0294,
           "direction": "below",
-          "change_24h": -0.01686574915351639,
-          "volume_24h": 14129322236.853294,
+          "change_24h": 0.009645298424428001,
+          "volume_24h": 14105274564.07293,
           "is_opportunity": false
         },
         {
           "symbol": "DAI",
           "coin_id": "dai",
-          "price": 0.999676,
-          "deviation_from_peg": 0.000324,
-          "deviation_pct": 0.0324,
+          "price": 0.999674,
+          "deviation_from_peg": 0.000326,
+          "deviation_pct": 0.0326,
           "direction": "below",
-          "change_24h": -0.014457226839851072,
-          "volume_24h": 236403911.58534637,
+          "change_24h": 0.006010673888594668,
+          "volume_24h": 225503026.3188739,
           "is_opportunity": false
         },
         {
           "symbol": "TUSD",
           "coin_id": "true-usd",
-          "price": 0.997384,
-          "deviation_from_peg": 0.002616,
-          "deviation_pct": 0.2616,
+          "price": 0.997865,
+          "deviation_from_peg": 0.002135,
+          "deviation_pct": 0.2135,
           "direction": "below",
-          "change_24h": 0.08471289348000406,
-          "volume_24h": 26979783.615447134,
+          "change_24h": 0.13571925925786757,
+          "volume_24h": 30426656.478569537,
           "is_opportunity": true,
-          "action": "Buy TUSD at $0.9974, redeem at $1.00",
-          "profit_per_unit": 0.002616
+          "action": "Buy TUSD at $0.9979, redeem at $1.00",
+          "profit_per_unit": 0.002135
         },
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.989401,
-          "deviation_from_peg": 0.010599,
-          "deviation_pct": 1.0599,
+          "price": 0.990349,
+          "deviation_from_peg": 0.009651,
+          "deviation_pct": 0.9651,
           "direction": "below",
-          "change_24h": -0.06356949058620859,
-          "volume_24h": 533502.9870788535,
+          "change_24h": 0.12052838367495916,
+          "volume_24h": 573183.8007271654,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9894, redeem at $1.00",
-          "profit_per_unit": 0.010599
-        },
-        {
-          "symbol": "USDT/USDC",
-          "coin_id": "cross-stable",
-          "price": null,
-          "deviation_from_peg": 0.001306,
-          "deviation_pct": 0.1306,
-          "direction": "spread",
-          "change_24h": 0,
-          "volume_24h": 0,
-          "is_opportunity": false,
-          "action": "Buy USDT -> swap to USDC (spread: $0.0013)",
-          "profit_per_unit": 0.001306
+          "action": "Buy FRAX at $0.9903, redeem at $1.00",
+          "profit_per_unit": 0.009651
         }
       ],
       "opportunities": [
         {
           "symbol": "TUSD",
           "coin_id": "true-usd",
-          "price": 0.997384,
-          "deviation_from_peg": 0.002616,
-          "deviation_pct": 0.2616,
+          "price": 0.997865,
+          "deviation_from_peg": 0.002135,
+          "deviation_pct": 0.2135,
           "direction": "below",
-          "change_24h": 0.08471289348000406,
-          "volume_24h": 26979783.615447134,
+          "change_24h": 0.13571925925786757,
+          "volume_24h": 30426656.478569537,
           "is_opportunity": true,
-          "action": "Buy TUSD at $0.9974, redeem at $1.00",
-          "profit_per_unit": 0.002616
+          "action": "Buy TUSD at $0.9979, redeem at $1.00",
+          "profit_per_unit": 0.002135
         },
         {
           "symbol": "FRAX",
           "coin_id": "frax",
-          "price": 0.989401,
-          "deviation_from_peg": 0.010599,
-          "deviation_pct": 1.0599,
+          "price": 0.990349,
+          "deviation_from_peg": 0.009651,
+          "deviation_pct": 0.9651,
           "direction": "below",
-          "change_24h": -0.06356949058620859,
-          "volume_24h": 533502.9870788535,
+          "change_24h": 0.12052838367495916,
+          "volume_24h": 573183.8007271654,
           "is_opportunity": true,
-          "action": "Buy FRAX at $0.9894, redeem at $1.00",
-          "profit_per_unit": 0.010599
+          "action": "Buy FRAX at $0.9903, redeem at $1.00",
+          "profit_per_unit": 0.009651
         }
       ],
       "count": 2
@@ -111,18 +98,18 @@
       "opportunities": [
         {
           "coin": "bitcoin",
-          "buy_exchange": "HashKey Exchange",
-          "buy_price": 58255.45,
-          "buy_pair": "BTC/USD",
-          "buy_volume_usd": 23211335,
-          "sell_exchange": "Bitstamp by Robinhood",
-          "sell_price": 58556.92,
-          "sell_pair": "BTC/USDT",
-          "sell_volume_usd": 1690722,
-          "spread_pct": 0.517,
-          "spread_usd": 301.47,
+          "buy_exchange": "Gate",
+          "buy_price": 59944.23,
+          "buy_pair": "BTC/USDC",
+          "buy_volume_usd": 2296495,
+          "sell_exchange": "Dexalot",
+          "sell_price": 60391.9,
+          "sell_pair": "BTC/USDC",
+          "sell_volume_usd": 1897622,
+          "spread_pct": 0.747,
+          "spread_usd": 447.67,
           "exchanges_checked": 77,
-          "timestamp": "2026-06-30T16:23:27.540680+00:00"
+          "timestamp": "2026-07-01T16:27:31.120285+00:00"
         }
       ],
       "count": 1,
@@ -143,21 +130,21 @@
       "type": "crypto_spread",
       "detail": {
         "coin": "bitcoin",
-        "buy_exchange": "HashKey Exchange",
-        "buy_price": 58255.45,
-        "buy_pair": "BTC/USD",
-        "buy_volume_usd": 23211335,
-        "sell_exchange": "Bitstamp by Robinhood",
-        "sell_price": 58556.92,
-        "sell_pair": "BTC/USDT",
-        "sell_volume_usd": 1690722,
-        "spread_pct": 0.517,
-        "spread_usd": 301.47,
+        "buy_exchange": "Gate",
+        "buy_price": 59944.23,
+        "buy_pair": "BTC/USDC",
+        "buy_volume_usd": 2296495,
+        "sell_exchange": "Dexalot",
+        "sell_price": 60391.9,
+        "sell_pair": "BTC/USDC",
+        "sell_volume_usd": 1897622,
+        "spread_pct": 0.747,
+        "spread_usd": 447.67,
         "exchanges_checked": 77,
-        "timestamp": "2026-06-30T16:23:27.540680+00:00"
+        "timestamp": "2026-07-01T16:27:31.120285+00:00"
       }
     },
-    "scan_time": "2026-06-30T16:23:33.412474+00:00"
+    "scan_time": "2026-07-01T16:27:37.029836+00:00"
   },
-  "elapsed_seconds": 6.2
+  "elapsed_seconds": 6.3
 }
