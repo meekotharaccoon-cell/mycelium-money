@@ -9,11 +9,11 @@
 ============================================================
 ARBITRAGE SCANNER -- Results
 ============================================================
-  Total opportunities: 3
+  Total opportunities: 2
     Stablecoin peg: 2
-    Crypto spread:  1
+    Crypto spread:  0
     Kalshi mispricing: 0
-  Best opportunity: crypto_spread
-    bitcoin: buy on Gate @ $59,944.23, sell on Dexalot @ $60,391.90 = 0.75%
-  Elapsed: 6.3s
+  Best opportunity: stablecoin_peg
+    Buy TUSD at $0.9978, redeem at $1.00
+  Elapsed: 6.1s
 ============================================================

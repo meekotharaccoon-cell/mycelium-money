@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T16:05:58.053969Z",
+  "revenue": {
+    "kalshi_opportunities": 0,
+    "btc_price": 61543,
+    "eth_price": 1695.05,
+    "fear_greed": 19,
+    "signal": "buy_dip"
+  },
+  "arbitrage": {
+    "total_opportunities": 2,
+    "stablecoin_opps": 2,
+    "crypto_spread_opps": 0,
+    "kalshi_mispricing_opps": 0
+  }
+}
